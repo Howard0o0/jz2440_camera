@@ -1,0 +1,21 @@
+
+PermitRootLogin yes
+HostKey /usr/local/etc/ssh_host_rsa_key
+HostKey /usr/local/etc/ssh_host_ecdsa_key
+HostKey /usr/local/etc/ssh_host_dsa_key
+HostKey /usr/local/etc/ssh_host_ed25519_key
+
+PubkeyAuthentication yes
+
+PasswordAuthentication yes
+PermitEmptyPasswords no
+
+AllowUsers sshd root
+
+Subsystem sftp internal-sftp
+
+Match group 1000
+  ChrootDirectory /home/sshd
+  X11Forwarding no
+  AllowTcpForwarding no
+  ForceCommand internal-sftp

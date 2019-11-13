@@ -1,0 +1,999 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+ABS	../../utils.h	23;"	d
+AJAX_get	../../www/functions.js	/^function AJAX_get(url) {$/;"	f
+AJAX_response	../../www/control.htm	/^      function AJAX_response(text) {$/;"	f
+AJAX_response	../../www/java_control.html	/^      function AJAX_response(text) {$/;"	f
+APP_BINARY	../../Makefile	/^APP_BINARY=mjpg_streamer$/;"	m
+AVIPICT	../../plugins/input_gspcav1/utils.h	/^typedef enum { PICTURE = 0,AVIPICT,PICTWRD,PICFTP,PICTHTTP} SPCAPICT;$/;"	e	enum:__anon16
+A_COMMAND	../../plugins/output_http/httpd.h	/^typedef enum { A_UNKNOWN, A_SNAPSHOT, A_STREAM, A_COMMAND, A_FILE } answer_t;$/;"	e	enum:__anon9
+A_FILE	../../plugins/output_http/httpd.h	/^typedef enum { A_UNKNOWN, A_SNAPSHOT, A_STREAM, A_COMMAND, A_FILE } answer_t;$/;"	e	enum:__anon9
+A_SNAPSHOT	../../plugins/output_http/httpd.h	/^typedef enum { A_UNKNOWN, A_SNAPSHOT, A_STREAM, A_COMMAND, A_FILE } answer_t;$/;"	e	enum:__anon9
+A_STREAM	../../plugins/output_http/httpd.h	/^typedef enum { A_UNKNOWN, A_SNAPSHOT, A_STREAM, A_COMMAND, A_FILE } answer_t;$/;"	e	enum:__anon9
+A_UNKNOWN	../../plugins/output_http/httpd.h	/^typedef enum { A_UNKNOWN, A_SNAPSHOT, A_STREAM, A_COMMAND, A_FILE } answer_t;$/;"	e	enum:__anon9
+BLOCK_SIZE	../../plugins/input_gspcav1/encoder.h	48;"	d
+BOUNDARY	../../plugins/output_http/httpd.h	27;"	d
+BPPIN	../../plugins/input_gspcav1/spcav4l.h	50;"	d
+BRIDGE_CX11646	../../plugins/input_gspcav1/jconfig.h	/^	BRIDGE_CX11646,$/;"	e	enum:__anon18
+BRIDGE_CX11646	../../plugins/input_gspcav1/spcav4l.h	/^	BRIDGE_CX11646,$/;"	e	enum:__anon19
+BRIDGE_ETOMS	../../plugins/input_gspcav1/jconfig.h	/^	BRIDGE_ETOMS,$/;"	e	enum:__anon18
+BRIDGE_ETOMS	../../plugins/input_gspcav1/spcav4l.h	/^	BRIDGE_ETOMS,$/;"	e	enum:__anon19
+BRIDGE_MR97311	../../plugins/input_gspcav1/jconfig.h	/^	BRIDGE_MR97311,$/;"	e	enum:__anon18
+BRIDGE_MR97311	../../plugins/input_gspcav1/spcav4l.h	/^	BRIDGE_MR97311,$/;"	e	enum:__anon19
+BRIDGE_PAC207	../../plugins/input_gspcav1/jconfig.h	/^	BRIDGE_PAC207,$/;"	e	enum:__anon18
+BRIDGE_PAC207	../../plugins/input_gspcav1/spcav4l.h	/^	BRIDGE_PAC207,$/;"	e	enum:__anon19
+BRIDGE_PAC7311	../../plugins/input_gspcav1/jconfig.h	/^	BRIDGE_PAC7311,$/;"	e	enum:__anon18
+BRIDGE_PAC7311	../../plugins/input_gspcav1/spcav4l.h	/^	BRIDGE_PAC7311,$/;"	e	enum:__anon19
+BRIDGE_SN9CXXX	../../plugins/input_gspcav1/jconfig.h	/^	BRIDGE_SN9CXXX,$/;"	e	enum:__anon18
+BRIDGE_SN9CXXX	../../plugins/input_gspcav1/spcav4l.h	/^	BRIDGE_SN9CXXX,$/;"	e	enum:__anon19
+BRIDGE_SONIX	../../plugins/input_gspcav1/jconfig.h	/^	BRIDGE_SONIX,$/;"	e	enum:__anon18
+BRIDGE_SONIX	../../plugins/input_gspcav1/spcav4l.h	/^	BRIDGE_SONIX,$/;"	e	enum:__anon19
+BRIDGE_SPCA500	../../plugins/input_gspcav1/jconfig.h	/^	BRIDGE_SPCA500,$/;"	e	enum:__anon18
+BRIDGE_SPCA500	../../plugins/input_gspcav1/spcav4l.h	/^	BRIDGE_SPCA500,$/;"	e	enum:__anon19
+BRIDGE_SPCA501	../../plugins/input_gspcav1/jconfig.h	/^	BRIDGE_SPCA501,$/;"	e	enum:__anon18
+BRIDGE_SPCA501	../../plugins/input_gspcav1/spcav4l.h	/^	BRIDGE_SPCA501,$/;"	e	enum:__anon19
+BRIDGE_SPCA504	../../plugins/input_gspcav1/jconfig.h	/^	BRIDGE_SPCA504,$/;"	e	enum:__anon18
+BRIDGE_SPCA504	../../plugins/input_gspcav1/spcav4l.h	/^	BRIDGE_SPCA504,$/;"	e	enum:__anon19
+BRIDGE_SPCA504B	../../plugins/input_gspcav1/jconfig.h	/^	BRIDGE_SPCA504B,$/;"	e	enum:__anon18
+BRIDGE_SPCA504B	../../plugins/input_gspcav1/spcav4l.h	/^	BRIDGE_SPCA504B,$/;"	e	enum:__anon19
+BRIDGE_SPCA504C	../../plugins/input_gspcav1/jconfig.h	/^	BRIDGE_SPCA504C,$/;"	e	enum:__anon18
+BRIDGE_SPCA504C	../../plugins/input_gspcav1/spcav4l.h	/^	BRIDGE_SPCA504C,$/;"	e	enum:__anon19
+BRIDGE_SPCA505	../../plugins/input_gspcav1/jconfig.h	/^	BRIDGE_SPCA505 = 0,$/;"	e	enum:__anon18
+BRIDGE_SPCA505	../../plugins/input_gspcav1/spcav4l.h	/^	BRIDGE_SPCA505 = 0,$/;"	e	enum:__anon19
+BRIDGE_SPCA506	../../plugins/input_gspcav1/jconfig.h	/^        BRIDGE_SPCA506,$/;"	e	enum:__anon18
+BRIDGE_SPCA506	../../plugins/input_gspcav1/spcav4l.h	/^        BRIDGE_SPCA506,$/;"	e	enum:__anon19
+BRIDGE_SPCA508	../../plugins/input_gspcav1/jconfig.h	/^	BRIDGE_SPCA508,$/;"	e	enum:__anon18
+BRIDGE_SPCA508	../../plugins/input_gspcav1/spcav4l.h	/^	BRIDGE_SPCA508,$/;"	e	enum:__anon19
+BRIDGE_SPCA533	../../plugins/input_gspcav1/jconfig.h	/^	BRIDGE_SPCA533,$/;"	e	enum:__anon18
+BRIDGE_SPCA533	../../plugins/input_gspcav1/spcav4l.h	/^	BRIDGE_SPCA533,$/;"	e	enum:__anon19
+BRIDGE_SPCA536	../../plugins/input_gspcav1/jconfig.h	/^	BRIDGE_SPCA536,$/;"	e	enum:__anon18
+BRIDGE_SPCA536	../../plugins/input_gspcav1/spcav4l.h	/^	BRIDGE_SPCA536,$/;"	e	enum:__anon19
+BRIDGE_SPCA561	../../plugins/input_gspcav1/jconfig.h	/^	BRIDGE_SPCA561,$/;"	e	enum:__anon18
+BRIDGE_SPCA561	../../plugins/input_gspcav1/spcav4l.h	/^	BRIDGE_SPCA561,$/;"	e	enum:__anon19
+BRIDGE_TV8532	../../plugins/input_gspcav1/jconfig.h	/^	BRIDGE_TV8532,$/;"	e	enum:__anon18
+BRIDGE_TV8532	../../plugins/input_gspcav1/spcav4l.h	/^	BRIDGE_TV8532,$/;"	e	enum:__anon19
+BRIDGE_UNKNOW	../../plugins/input_gspcav1/jconfig.h	/^	BRIDGE_UNKNOW,$/;"	e	enum:__anon18
+BRIDGE_UNKNOW	../../plugins/input_gspcav1/spcav4l.h	/^	BRIDGE_UNKNOW,$/;"	e	enum:__anon19
+BRIDGE_VC0321	../../plugins/input_gspcav1/jconfig.h	/^	BRIDGE_VC0321,$/;"	e	enum:__anon18
+BRIDGE_VC0321	../../plugins/input_gspcav1/spcav4l.h	/^	BRIDGE_VC0321,$/;"	e	enum:__anon19
+BRIDGE_VC0323	../../plugins/input_gspcav1/jconfig.h	/^	BRIDGE_VC0323,$/;"	e	enum:__anon18
+BRIDGE_VC0323	../../plugins/input_gspcav1/spcav4l.h	/^	BRIDGE_VC0323,$/;"	e	enum:__anon19
+BRIDGE_ZC3XX	../../plugins/input_gspcav1/jconfig.h	/^	BRIDGE_ZC3XX,$/;"	e	enum:__anon18
+BRIDGE_ZC3XX	../../plugins/input_gspcav1/spcav4l.h	/^	BRIDGE_ZC3XX,$/;"	e	enum:__anon19
+BUFFER_SIZE	../../plugins/output_http/httpd.h	24;"	d
+Blist	../../plugins/input_gspcav1/spcav4l.c	/^static struct bridge_list Blist[]={$/;"	v	typeref:struct:bridge_list	file:
+C2	../../plugins/input_gspcav1/utils.c	925;"	d	file:
+C22	../../plugins/input_gspcav1/utils.c	929;"	d	file:
+C3IC1	../../plugins/input_gspcav1/utils.c	932;"	d	file:
+C4	../../plugins/input_gspcav1/utils.c	926;"	d	file:
+C5IC1	../../plugins/input_gspcav1/utils.c	933;"	d	file:
+C7IC1	../../plugins/input_gspcav1/utils.c	934;"	d	file:
+CB	../../plugins/input_gspcav1/encoder.h	/^INT16 CB[BLOCK_SIZE];$/;"	v
+CBCRCG	../../plugins/input_gspcav1/utils.c	1136;"	d	file:
+CBCRCG	../../plugins/input_gspcav1/utils.c	1145;"	d	file:
+CC	../../Makefile	/^CC = arm-linux-gcc$/;"	m
+CC	../../plugins/input_gspcav1/Makefile	/^CC = arm-linux-gcc$/;"	m
+CC	../../plugins/input_testpicture/Makefile	/^CC = arm-linux-gcc$/;"	m
+CC	../../plugins/input_uvc/Makefile	/^CC = arm-linux-gcc$/;"	m
+CC	../../plugins/output_autofocus/Makefile	/^CC = arm-linux-gcc$/;"	m
+CC	../../plugins/output_file/Makefile	/^CC = arm-linux-gcc$/;"	m
+CC	../../plugins/output_http/Makefile	/^CC = arm-linux-gcc$/;"	m
+CHGABRIGHT	../../plugins/input_gspcav1/jconfig.h	14;"	d
+CHGABRIGHT	../../plugins/input_gspcav1/spcav4l.h	70;"	d
+CHGLIGHTFREQ	../../plugins/input_gspcav1/jconfig.h	16;"	d
+CHGQUALITY	../../plugins/input_gspcav1/jconfig.h	15;"	d
+CHGQUALITY	../../plugins/input_gspcav1/spcav4l.h	71;"	d
+CHGTINTER	../../plugins/input_gspcav1/jconfig.h	17;"	d
+CHGTINTER	../../plugins/input_gspcav1/spcav4l.h	72;"	d
+CIF	../../plugins/input_gspcav1/spcav4l.h	57;"	d
+CLAMP	../../plugins/input_gspcav1/utils.c	1132;"	d	file:
+CLIENT	../../plugins/input_gspcav1/utils.h	/^typedef enum { PLAYER = 0,GRABBER,STREAMSERV,HTTPSERV,CLIENT } SPCASTATE;$/;"	e	enum:__anon15
+CLIP	../../plugins/input_gspcav1/encoder.c	748;"	d	file:
+CLIP	../../plugins/input_gspcav1/utils.c	56;"	d	file:
+CR	../../plugins/input_gspcav1/encoder.h	/^INT16 CR[BLOCK_SIZE];$/;"	v
+Cqt	../../plugins/input_gspcav1/encoder.h	/^UINT8 Cqt[BLOCK_SIZE];$/;"	v
+DBG	../../mjpg_streamer.h	27;"	d
+DBG	../../mjpg_streamer.h	29;"	d
+DCT	../../plugins/input_gspcav1/encoder.c	/^DCT (INT16 * data) $/;"	f	file:
+DECBITS	../../plugins/input_gspcav1/utils.c	322;"	d	file:
+DEC_REC	../../plugins/input_gspcav1/utils.c	815;"	d	file:
+DSP_Division	../../plugins/input_gspcav1/quant.c	/^  UINT16 DSP_Division (UINT32 numer, UINT32 denom) $/;"	f
+ENCODER_H	../../plugins/input_gspcav1/encoder.h	27;"	d
+ENTRY	../../plugins/input_testpicture/input_testpicture.c	64;"	d	file:
+ERR_BAD_TABLES	../../plugins/input_gspcav1/utils.h	43;"	d
+ERR_BAD_WIDTH_OR_HEIGHT	../../plugins/input_gspcav1/utils.h	34;"	d
+ERR_DEPTH_MISMATCH	../../plugins/input_gspcav1/utils.h	44;"	d
+ERR_HEIGHT_MISMATCH	../../plugins/input_gspcav1/utils.h	32;"	d
+ERR_ILLEGAL_HV	../../plugins/input_gspcav1/utils.h	36;"	d
+ERR_NOT_8BIT	../../plugins/input_gspcav1/utils.h	31;"	d
+ERR_NOT_SEQUENTIAL_DCT	../../plugins/input_gspcav1/utils.h	40;"	d
+ERR_NOT_YCBCR_221111	../../plugins/input_gspcav1/utils.h	38;"	d
+ERR_NO_EOI	../../plugins/input_gspcav1/utils.h	42;"	d
+ERR_NO_SOI	../../plugins/input_gspcav1/utils.h	30;"	d
+ERR_QUANT_TABLE_SELECTOR	../../plugins/input_gspcav1/utils.h	37;"	d
+ERR_TOO_MANY_COMPPS	../../plugins/input_gspcav1/utils.h	35;"	d
+ERR_UNKNOWN_CID_IN_SCAN	../../plugins/input_gspcav1/utils.h	39;"	d
+ERR_WIDTH_MISMATCH	../../plugins/input_gspcav1/utils.h	33;"	d
+ERR_WRONG_MARKER	../../plugins/input_gspcav1/utils.h	41;"	d
+FOUR_FOUR_FOUR	../../plugins/input_gspcav1/encoder.h	33;"	d
+FOUR_TWO_TWO	../../plugins/input_gspcav1/encoder.h	32;"	d
+FOUR_TWO_ZERO	../../plugins/input_gspcav1/encoder.h	31;"	d
+FOUR_ZERO_ZERO	../../plugins/input_gspcav1/encoder.h	30;"	d
+GBGR	../../plugins/input_gspcav1/spcav4l.h	/^	GBGR,$/;"	e	enum:__anon20
+GBRG	../../plugins/input_gspcav1/jconfig.h	/^	GBRG,$/;"	e	enum:__anon17
+GBRG	../../plugins/input_gspcav1/spcav4l.h	/^	GBRG,$/;"	e	enum:__anon20
+GETBITS	../../plugins/input_gspcav1/utils.c	769;"	d	file:
+GRABBER	../../plugins/input_gspcav1/utils.h	/^typedef enum { PLAYER = 0,GRABBER,STREAMSERV,HTTPSERV,CLIENT } SPCASTATE;$/;"	e	enum:__anon15
+GREY	../../plugins/input_gspcav1/jconfig.h	/^	GREY,$/;"	e	enum:__anon17
+GREY	../../plugins/input_gspcav1/spcav4l.h	/^	GREY,$/;"	e	enum:__anon20
+GetDepth	../../plugins/input_gspcav1/spcav4l.c	/^GetDepth (int format)$/;"	f
+GetStreamId	../../plugins/input_gspcav1/spcav4l.c	/^GetStreamId (const char *BridgeName)$/;"	f
+GetVideoPict	../../plugins/input_gspcav1/spcav4l.c	/^GetVideoPict (struct vdIn *vd)$/;"	f	file:
+HEADERFRAME1	../../plugins/input_uvc/v4l2uvc.c	303;"	d	file:
+HEIGHT	../../plugins/input_gspcav1/spcav4l.h	49;"	d
+HTTPSERV	../../plugins/input_gspcav1/utils.h	/^typedef enum { PLAYER = 0,GRABBER,STREAMSERV,HTTPSERV,CLIENT } SPCASTATE;$/;"	e	enum:__anon15
+HUFFMAN_H	../../plugins/input_gspcav1/huffman.h	25;"	d
+HUFF_EXTEND	../../plugins/output_autofocus/processJPEG_onlyCenter.h	1;"	d
+IC4	../../plugins/input_gspcav1/utils.c	930;"	d	file:
+ICqt	../../plugins/input_gspcav1/encoder.h	/^UINT16 ICqt[BLOCK_SIZE];$/;"	v
+IDCT	../../plugins/input_gspcav1/utils.c	944;"	d	file:
+IFIX	../../plugins/input_gspcav1/utils.c	271;"	d	file:
+ILqt	../../plugins/input_gspcav1/encoder.h	/^UINT16 ILqt[BLOCK_SIZE];$/;"	v
+IMAGE_HEIGHT	../../plugins/input_gspcav1/jconfig.h	5;"	d
+IMAGE_WIDTH	../../plugins/input_gspcav1/jconfig.h	4;"	d
+IMULT	../../plugins/input_gspcav1/utils.c	272;"	d	file:
+INPUT_PLUGIN_NAME	../../plugins/input_file/input_file.c	40;"	d	file:
+INPUT_PLUGIN_NAME	../../plugins/input_gspcav1/input_gspcav1.c	39;"	d	file:
+INPUT_PLUGIN_NAME	../../plugins/input_testpicture/input_testpicture.c	43;"	d	file:
+INPUT_PLUGIN_NAME	../../plugins/input_uvc/input_uvc.c	49;"	d	file:
+INPUT_PLUGIN_PREFIX	../../plugins/input.h	23;"	d
+INT16	../../plugins/input_gspcav1/jdatatype.h	5;"	d
+INT32	../../plugins/input_gspcav1/jdatatype.h	9;"	d
+INT8	../../plugins/input_gspcav1/jdatatype.h	7;"	d
+IN_CMD_BRIGHTNESS_MINUS	../../plugins/input.h	/^  IN_CMD_BRIGHTNESS_MINUS,$/;"	e	enum:_in_cmd_type
+IN_CMD_BRIGHTNESS_PLUS	../../plugins/input.h	/^  IN_CMD_BRIGHTNESS_PLUS,$/;"	e	enum:_in_cmd_type
+IN_CMD_CONTRAST_MINUS	../../plugins/input.h	/^  IN_CMD_CONTRAST_MINUS,$/;"	e	enum:_in_cmd_type
+IN_CMD_CONTRAST_PLUS	../../plugins/input.h	/^  IN_CMD_CONTRAST_PLUS,$/;"	e	enum:_in_cmd_type
+IN_CMD_FOCUS_MINUS	../../plugins/input.h	/^  IN_CMD_FOCUS_MINUS,$/;"	e	enum:_in_cmd_type
+IN_CMD_FOCUS_PLUS	../../plugins/input.h	/^  IN_CMD_FOCUS_PLUS,$/;"	e	enum:_in_cmd_type
+IN_CMD_FOCUS_SET	../../plugins/input.h	/^  IN_CMD_FOCUS_SET,$/;"	e	enum:_in_cmd_type
+IN_CMD_GAIN_MINUS	../../plugins/input.h	/^  IN_CMD_GAIN_MINUS,$/;"	e	enum:_in_cmd_type
+IN_CMD_GAIN_PLUS	../../plugins/input.h	/^  IN_CMD_GAIN_PLUS,$/;"	e	enum:_in_cmd_type
+IN_CMD_HELLO	../../plugins/input.h	/^  IN_CMD_HELLO,$/;"	e	enum:_in_cmd_type
+IN_CMD_LED_AUTO	../../plugins/input.h	/^  IN_CMD_LED_AUTO,$/;"	e	enum:_in_cmd_type
+IN_CMD_LED_BLINK	../../plugins/input.h	/^  IN_CMD_LED_BLINK$/;"	e	enum:_in_cmd_type
+IN_CMD_LED_OFF	../../plugins/input.h	/^  IN_CMD_LED_OFF,$/;"	e	enum:_in_cmd_type
+IN_CMD_LED_ON	../../plugins/input.h	/^  IN_CMD_LED_ON,$/;"	e	enum:_in_cmd_type
+IN_CMD_PAN_MINUS	../../plugins/input.h	/^  IN_CMD_PAN_MINUS,$/;"	e	enum:_in_cmd_type
+IN_CMD_PAN_PLUS	../../plugins/input.h	/^  IN_CMD_PAN_PLUS,$/;"	e	enum:_in_cmd_type
+IN_CMD_PAN_SET	../../plugins/input.h	/^  IN_CMD_PAN_SET,$/;"	e	enum:_in_cmd_type
+IN_CMD_RESET	../../plugins/input.h	/^  IN_CMD_RESET,$/;"	e	enum:_in_cmd_type
+IN_CMD_RESET_PAN_TILT	../../plugins/input.h	/^  IN_CMD_RESET_PAN_TILT,$/;"	e	enum:_in_cmd_type
+IN_CMD_RESET_PAN_TILT_NO_MUTEX	../../plugins/input.h	/^  IN_CMD_RESET_PAN_TILT_NO_MUTEX,$/;"	e	enum:_in_cmd_type
+IN_CMD_SATURATION_MINUS	../../plugins/input.h	/^  IN_CMD_SATURATION_MINUS,$/;"	e	enum:_in_cmd_type
+IN_CMD_SATURATION_PLUS	../../plugins/input.h	/^  IN_CMD_SATURATION_PLUS,$/;"	e	enum:_in_cmd_type
+IN_CMD_TILT_MINUS	../../plugins/input.h	/^  IN_CMD_TILT_MINUS,$/;"	e	enum:_in_cmd_type
+IN_CMD_TILT_PLUS	../../plugins/input.h	/^  IN_CMD_TILT_PLUS,$/;"	e	enum:_in_cmd_type
+IN_CMD_TILT_SET	../../plugins/input.h	/^  IN_CMD_TILT_SET,$/;"	e	enum:_in_cmd_type
+IN_CMD_UNKNOWN	../../plugins/input.h	/^  IN_CMD_UNKNOWN = 0,$/;"	e	enum:_in_cmd_type
+IO_BUFFER	../../plugins/output_http/httpd.h	23;"	d
+IPRINT	../../plugins/input.h	24;"	d
+ISHIFT	../../plugins/input_gspcav1/utils.c	269;"	d	file:
+ITOINT	../../plugins/input_gspcav1/utils.c	273;"	d	file:
+JCONFIG_H	../../plugins/input_gspcav1/jconfig.h	2;"	d
+JDATATYPE_H	../../plugins/input_gspcav1/jdatatype.h	2;"	d
+JPEG	../../plugins/input_gspcav1/jconfig.h	/^	JPEG = 0,$/;"	e	enum:__anon17
+JPEG	../../plugins/input_gspcav1/spcav4l.h	/^	JPEG = 0,$/;"	e	enum:__anon20
+JPEG_ENCODER_STRUCTURE	../../plugins/input_gspcav1/encoder.h	/^typedef struct JPEG_ENCODER_STRUCTURE$/;"	s
+JPEG_ENCODER_STRUCTURE	../../plugins/input_gspcav1/encoder.h	/^} JPEG_ENCODER_STRUCTURE;$/;"	t	typeref:struct:JPEG_ENCODER_STRUCTURE
+JPG	../../plugins/input_gspcav1/spcav4l.h	62;"	d
+KeyDown	../../www/control.htm	/^      function KeyDown(ev) {$/;"	f
+LEBI_DCL	../../plugins/input_gspcav1/utils.c	765;"	d	file:
+LEBI_GET	../../plugins/input_gspcav1/utils.c	766;"	d	file:
+LEBI_PUT	../../plugins/input_gspcav1/utils.c	767;"	d	file:
+LENGTH_OF	../../utils.h	26;"	d
+LOG	../../mjpg_streamer.h	32;"	d
+Lqt	../../plugins/input_gspcav1/encoder.h	/^  $/;"	v
+MARKER_H	../../plugins/input_gspcav1/marker.h	27;"	d
+MASQ	../../plugins/input_gspcav1/spcav4l.h	53;"	d
+MAX	../../utils.h	25;"	d
+MAXCOMP	../../plugins/input_gspcav1/utils.c	385;"	d	file:
+MAX_ARGUMENTS	../../plugins/input_file/input_file.c	41;"	d	file:
+MAX_ARGUMENTS	../../plugins/input_gspcav1/input_gspcav1.c	40;"	d	file:
+MAX_ARGUMENTS	../../plugins/input_testpicture/input_testpicture.c	44;"	d	file:
+MAX_ARGUMENTS	../../plugins/input_uvc/input_uvc.c	50;"	d	file:
+MAX_ARGUMENTS	../../plugins/output_autofocus/output_autofocus.c	46;"	d	file:
+MAX_ARGUMENTS	../../plugins/output_file/output_file.c	44;"	d	file:
+MAX_ARGUMENTS	../../plugins/output_http/output_http.c	43;"	d	file:
+MAX_BRIDGE	../../plugins/input_gspcav1/jconfig.h	/^	MAX_BRIDGE,$/;"	e	enum:__anon18
+MAX_BRIDGE	../../plugins/input_gspcav1/spcav4l.h	/^	MAX_BRIDGE,$/;"	e	enum:__anon19
+MAX_FRAME_SIZE	../../plugins/output_http/httpd.h	34;"	d
+MAX_OUTPUT_PLUGINS	../../mjpg_streamer.h	24;"	d
+MAX_PAN	../../plugins/input_testpicture/input_testpicture.c	295;"	d	file:
+MAX_PAN	../../plugins/input_uvc/dynctrl.h	42;"	d
+MAX_TILT	../../plugins/input_testpicture/input_testpicture.c	297;"	d	file:
+MAX_TILT	../../plugins/input_uvc/dynctrl.h	44;"	d
+METHODDEF	../../plugins/input_uvc/jpeg_utils.c	/^METHODDEF(boolean) empty_output_buffer(j_compress_ptr cinfo) {$/;"	f
+MIN	../../utils.h	24;"	d
+MIN_PAN	../../plugins/input_testpicture/input_testpicture.c	296;"	d	file:
+MIN_PAN	../../plugins/input_uvc/dynctrl.h	43;"	d
+MIN_RES	../../plugins/input_uvc/dynctrl.h	46;"	d
+MIN_TILT	../../plugins/input_testpicture/input_testpicture.c	298;"	d	file:
+MIN_TILT	../../plugins/input_uvc/dynctrl.h	45;"	d
+M_APP0	../../plugins/input_gspcav1/utils.c	354;"	d	file:
+M_BADHUFF	../../plugins/input_gspcav1/utils.c	280;"	d	file:
+M_COM	../../plugins/input_gspcav1/utils.c	362;"	d	file:
+M_DHT	../../plugins/input_gspcav1/utils.c	357;"	d	file:
+M_DQT	../../plugins/input_gspcav1/utils.c	355;"	d	file:
+M_DRI	../../plugins/input_gspcav1/utils.c	358;"	d	file:
+M_EOF	../../plugins/input_gspcav1/utils.c	281;"	d	file:
+M_EOI	../../plugins/input_gspcav1/utils.c	361;"	d	file:
+M_RST0	../../plugins/input_gspcav1/utils.c	360;"	d	file:
+M_SOF0	../../plugins/input_gspcav1/utils.c	356;"	d	file:
+M_SOI	../../plugins/input_gspcav1/utils.c	353;"	d	file:
+M_SOS	../../plugins/input_gspcav1/utils.c	359;"	d	file:
+Myrgb16	../../plugins/input_gspcav1/utils.h	/^typedef struct Myrgb16 {$/;"	s
+Myrgb16	../../plugins/input_gspcav1/utils.h	/^} Myrgb16;$/;"	t	typeref:struct:Myrgb16
+Myrgb24	../../plugins/input_gspcav1/utils.h	/^typedef struct Myrgb24 {$/;"	s
+Myrgb24	../../plugins/input_gspcav1/utils.h	/^} Myrgb24;$/;"	t	typeref:struct:Myrgb24
+Myrgb32	../../plugins/input_gspcav1/utils.h	/^typedef struct Myrgb32 {$/;"	s
+Myrgb32	../../plugins/input_gspcav1/utils.h	/^} Myrgb32;$/;"	t	typeref:struct:Myrgb32
+NB_BUFFER	../../plugins/input_uvc/v4l2uvc.h	38;"	d
+OBJECTS	../../Makefile	/^OBJECTS=mjpg_streamer.o utils.o$/;"	m
+ONE	../../plugins/input_gspcav1/utils.c	923;"	d	file:
+ONE_DEGREE	../../plugins/input_testpicture/input_testpicture.c	294;"	d	file:
+ONE_DEGREE	../../plugins/input_uvc/dynctrl.h	41;"	d
+OPRINT	../../plugins/output.h	24;"	d
+OTHER_HEADERS	../../plugins/input_gspcav1/Makefile	/^OTHER_HEADERS = ..\/..\/mjpg_streamer.h ..\/..\/utils.h ..\/output.h ..\/input.h$/;"	m
+OTHER_HEADERS	../../plugins/input_testpicture/Makefile	/^OTHER_HEADERS = ..\/..\/mjpg_streamer.h ..\/..\/utils.h ..\/output.h ..\/input.h$/;"	m
+OTHER_HEADERS	../../plugins/input_uvc/Makefile	/^OTHER_HEADERS = ..\/..\/mjpg_streamer.h ..\/..\/utils.h ..\/output.h ..\/input.h$/;"	m
+OTHER_HEADERS	../../plugins/output_autofocus/Makefile	/^OTHER_HEADERS = ..\/..\/mjpg_streamer.h ..\/..\/utils.h ..\/output.h ..\/input.h$/;"	m
+OTHER_HEADERS	../../plugins/output_file/Makefile	/^OTHER_HEADERS = ..\/..\/mjpg_streamer.h ..\/..\/utils.h ..\/output.h ..\/input.h$/;"	m
+OTHER_HEADERS	../../plugins/output_http/Makefile	/^OTHER_HEADERS = ..\/..\/mjpg_streamer.h ..\/..\/utils.h ..\/output.h ..\/input.h$/;"	m
+OUTFRMNUMB	../../plugins/input_gspcav1/spcav4l.h	51;"	d
+OUTPUT_BUF_SIZE	../../plugins/input_uvc/jpeg_utils.c	32;"	d	file:
+OUTPUT_PLUGIN_NAME	../../plugins/output_autofocus/output_autofocus.c	45;"	d	file:
+OUTPUT_PLUGIN_NAME	../../plugins/output_file/output_file.c	43;"	d	file:
+OUTPUT_PLUGIN_NAME	../../plugins/output_http/output_http.c	42;"	d	file:
+OUTPUT_PLUGIN_PREFIX	../../plugins/output.h	23;"	d
+OUT_CMD_HELLO	../../plugins/output.h	/^  OUT_CMD_HELLO$/;"	e	enum:_out_cmd_type
+OUT_CMD_UNKNOWN	../../plugins/output.h	/^  OUT_CMD_UNKNOWN = 0,$/;"	e	enum:_out_cmd_type
+PAL	../../plugins/input_gspcav1/spcav4l.h	55;"	d
+PIC	../../plugins/input_gspcav1/utils.c	1154;"	d	file:
+PIC221111	../../plugins/input_gspcav1/utils.c	1164;"	d	file:
+PICFTP	../../plugins/input_gspcav1/utils.h	/^typedef enum { PICTURE = 0,AVIPICT,PICTWRD,PICFTP,PICTHTTP} SPCAPICT;$/;"	e	enum:__anon16
+PICTHTTP	../../plugins/input_gspcav1/utils.h	/^typedef enum { PICTURE = 0,AVIPICT,PICTWRD,PICFTP,PICTHTTP} SPCAPICT;$/;"	e	enum:__anon16
+PICTURE	../../plugins/input_gspcav1/utils.h	/^typedef enum { PICTURE = 0,AVIPICT,PICTWRD,PICFTP,PICTHTTP} SPCAPICT;$/;"	e	enum:__anon16
+PICTWRD	../../plugins/input_gspcav1/utils.h	/^typedef enum { PICTURE = 0,AVIPICT,PICTWRD,PICFTP,PICTHTTP} SPCAPICT;$/;"	e	enum:__anon16
+PIC_160x120_1	../../plugins/input_testpicture/testpictures.h	/^static const unsigned char PIC_160x120_1[] = { $/;"	v
+PIC_160x120_2	../../plugins/input_testpicture/testpictures.h	/^static const unsigned char PIC_160x120_2[] = { $/;"	v
+PIC_320x240_1	../../plugins/input_testpicture/testpictures.h	/^static const unsigned char PIC_320x240_1[] = { $/;"	v
+PIC_320x240_2	../../plugins/input_testpicture/testpictures.h	/^static const unsigned char PIC_320x240_2[] = { $/;"	v
+PIC_640x480_1	../../plugins/input_testpicture/testpictures.h	/^static const unsigned char PIC_640x480_1[] = { $/;"	v
+PIC_640x480_2	../../plugins/input_testpicture/testpictures.h	/^static const unsigned char PIC_640x480_2[] = { $/;"	v
+PIC_960x720_1	../../plugins/input_testpicture/testpictures.h	/^static const unsigned char PIC_960x720_1[] = { $/;"	v
+PIC_960x720_2	../../plugins/input_testpicture/testpictures.h	/^static const unsigned char PIC_960x720_2[] = { $/;"	v
+PLAYER	../../plugins/input_gspcav1/utils.h	/^typedef enum { PLAYER = 0,GRABBER,STREAMSERV,HTTPSERV,CLIENT } SPCASTATE;$/;"	e	enum:__anon15
+PREC	../../plugins/input_gspcav1/utils.c	338;"	d	file:
+PREC	../../plugins/input_gspcav1/utils.c	339;"	d	file:
+QCIF	../../plugins/input_gspcav1/spcav4l.h	60;"	d
+QPAL	../../plugins/input_gspcav1/spcav4l.h	58;"	d
+QSIF	../../plugins/input_gspcav1/spcav4l.h	59;"	d
+QUANT_H	../../plugins/input_gspcav1/quant.h	26;"	d
+RGB24	../../plugins/input_gspcav1/spcav4l.h	64;"	d
+RGB32	../../plugins/input_gspcav1/spcav4l.h	66;"	d
+RGB32_2_420	../../plugins/input_gspcav1/encoder.c	/^RGB32_2_420 (UINT8 * input_ptr, UINT8 * output_ptr, UINT32 image_width,$/;"	f	file:
+RGB32to420	../../plugins/input_gspcav1/encoder.h	41;"	d
+RGB565	../../plugins/input_gspcav1/spcav4l.h	65;"	d
+RGB565_2_420	../../plugins/input_gspcav1/encoder.c	/^RGB565_2_420 (UINT8 * input_ptr, UINT8 * output_ptr, UINT32 image_width,$/;"	f	file:
+RGB565to420	../../plugins/input_gspcav1/encoder.h	40;"	d
+RGB_2_400	../../plugins/input_gspcav1/encoder.c	/^RGB_2_400 (UINT8 * input_ptr, UINT8 * output_ptr, UINT32 image_width,$/;"	f	file:
+RGB_2_420	../../plugins/input_gspcav1/encoder.c	/^RGB_2_420 (UINT8 * input_ptr, UINT8 * output_ptr, UINT32 image_width,$/;"	f	file:
+RGB_2_422	../../plugins/input_gspcav1/encoder.c	/^RGB_2_422 (UINT8 * input_ptr, UINT8 * output_ptr, UINT32 image_width,$/;"	f	file:
+RGB_2_444	../../plugins/input_gspcav1/encoder.c	/^RGB_2_444 (UINT8 * input_ptr, UINT8 * output_ptr, UINT32 image_width,$/;"	f	file:
+RGBto400	../../plugins/input_gspcav1/encoder.h	38;"	d
+RGBto420	../../plugins/input_gspcav1/encoder.h	37;"	d
+RGBto422	../../plugins/input_gspcav1/encoder.h	36;"	d
+RGBto444	../../plugins/input_gspcav1/encoder.h	35;"	d
+ROT	../../plugins/input_gspcav1/utils.c	940;"	d	file:
+ROUND	../../plugins/input_gspcav1/utils.c	1092;"	d	file:
+S2	../../plugins/input_gspcav1/utils.c	924;"	d	file:
+S22	../../plugins/input_gspcav1/utils.c	928;"	d	file:
+SIF	../../plugins/input_gspcav1/spcav4l.h	56;"	d
+SN9C	../../plugins/input_gspcav1/spcav4l.h	/^	SN9C,$/;"	e	enum:__anon20
+SOURCE_VERSION	../../mjpg_streamer.h	23;"	d
+SPCAGVIDIOPARAM	../../plugins/input_gspcav1/jconfig.h	25;"	d
+SPCAGVIDIOPARAM	../../plugins/input_gspcav1/spcav4l.h	78;"	d
+SPCAPICT	../../plugins/input_gspcav1/utils.h	/^typedef enum { PICTURE = 0,AVIPICT,PICTWRD,PICFTP,PICTHTTP} SPCAPICT;$/;"	t	typeref:enum:__anon16
+SPCASTATE	../../plugins/input_gspcav1/utils.h	/^typedef enum { PLAYER = 0,GRABBER,STREAMSERV,HTTPSERV,CLIENT } SPCASTATE;$/;"	t	typeref:enum:__anon15
+SPCASVIDIOPARAM	../../plugins/input_gspcav1/jconfig.h	26;"	d
+SPCASVIDIOPARAM	../../plugins/input_gspcav1/spcav4l.h	79;"	d
+SPCAV4L_H	../../plugins/input_gspcav1/spcav4l.h	25;"	d
+STD_HEADER	../../plugins/output_http/httpd.h	46;"	d
+STORECLAMP	../../plugins/input_gspcav1/utils.c	1123;"	d	file:
+STREAMSERV	../../plugins/input_gspcav1/utils.h	/^typedef enum { PLAYER = 0,GRABBER,STREAMSERV,HTTPSERV,CLIENT } SPCASTATE;$/;"	e	enum:__anon15
+SWAP_RGB	../../plugins/input_gspcav1/jconfig.h	9;"	d
+SetVideoPict	../../plugins/input_gspcav1/spcav4l.c	/^SetVideoPict (struct vdIn *vd)$/;"	f	file:
+SpcaGetBrightness	../../plugins/input_gspcav1/spcav4l.c	/^SpcaGetBrightness (struct vdIn * vdin)$/;"	f
+SpcaGetColors	../../plugins/input_gspcav1/spcav4l.c	/^SpcaGetColors (struct vdIn *vdin)$/;"	f
+SpcaGetContrast	../../plugins/input_gspcav1/spcav4l.c	/^SpcaGetContrast (struct vdIn *vdin)$/;"	f
+SpcaSetBrightness	../../plugins/input_gspcav1/spcav4l.c	/^SpcaSetBrightness (struct vdIn *vdin, __u8 bright)$/;"	f
+SpcaSetColors	../../plugins/input_gspcav1/spcav4l.c	/^SpcaSetColors (struct vdIn *vdin, __u8 colors)$/;"	f
+SpcaSetContrast	../../plugins/input_gspcav1/spcav4l.c	/^SpcaSetContrast (struct vdIn *vdin, __u8 contrast)$/;"	f
+TEN_K	../../plugins/output_http/httpd.h	35;"	d
+Temp	../../plugins/input_gspcav1/encoder.h	/^INT16 Temp[BLOCK_SIZE];$/;"	v
+UINT16	../../plugins/input_gspcav1/jdatatype.h	4;"	d
+UINT32	../../plugins/input_gspcav1/jdatatype.h	8;"	d
+UINT8	../../plugins/input_gspcav1/jdatatype.h	6;"	d
+UNGETBITS	../../plugins/input_gspcav1/utils.c	775;"	d	file:
+UNOW	../../plugins/input_gspcav1/jconfig.h	/^	UNOW,$/;"	e	enum:__anon17
+UNOW	../../plugins/input_gspcav1/spcav4l.h	/^	UNOW,$/;"	e	enum:__anon20
+UTILS_H	../../plugins/input_gspcav1/utils.h	25;"	d
+UVCIOC_CTRL_ADD	../../plugins/input_uvc/uvcvideo.h	113;"	d
+UVCIOC_CTRL_GET	../../plugins/input_uvc/uvcvideo.h	115;"	d
+UVCIOC_CTRL_MAP	../../plugins/input_uvc/uvcvideo.h	114;"	d
+UVCIOC_CTRL_SET	../../plugins/input_uvc/uvcvideo.h	116;"	d
+UVC_CONTROL_GET_CUR	../../plugins/input_uvc/uvcvideo.h	74;"	d
+UVC_CONTROL_GET_DEF	../../plugins/input_uvc/uvcvideo.h	78;"	d
+UVC_CONTROL_GET_MAX	../../plugins/input_uvc/uvcvideo.h	76;"	d
+UVC_CONTROL_GET_MIN	../../plugins/input_uvc/uvcvideo.h	75;"	d
+UVC_CONTROL_GET_RANGE	../../plugins/input_uvc/uvcvideo.h	82;"	d
+UVC_CONTROL_GET_RES	../../plugins/input_uvc/uvcvideo.h	77;"	d
+UVC_CONTROL_RESTORE	../../plugins/input_uvc/uvcvideo.h	80;"	d
+UVC_CONTROL_SET_CUR	../../plugins/input_uvc/uvcvideo.h	73;"	d
+UVC_CTRL_DATA_TYPE_BITMASK	../../plugins/input_uvc/uvcvideo.h	/^	UVC_CTRL_DATA_TYPE_BITMASK,$/;"	e	enum:uvc_control_data_type
+UVC_CTRL_DATA_TYPE_BOOLEAN	../../plugins/input_uvc/uvcvideo.h	/^        UVC_CTRL_DATA_TYPE_BOOLEAN,$/;"	e	enum:uvc_control_data_type
+UVC_CTRL_DATA_TYPE_ENUM	../../plugins/input_uvc/uvcvideo.h	/^        UVC_CTRL_DATA_TYPE_ENUM,$/;"	e	enum:uvc_control_data_type
+UVC_CTRL_DATA_TYPE_RAW	../../plugins/input_uvc/uvcvideo.h	/^        UVC_CTRL_DATA_TYPE_RAW = 0,$/;"	e	enum:uvc_control_data_type
+UVC_CTRL_DATA_TYPE_SIGNED	../../plugins/input_uvc/uvcvideo.h	/^        UVC_CTRL_DATA_TYPE_SIGNED,$/;"	e	enum:uvc_control_data_type
+UVC_CTRL_DATA_TYPE_UNSIGNED	../../plugins/input_uvc/uvcvideo.h	/^        UVC_CTRL_DATA_TYPE_UNSIGNED,$/;"	e	enum:uvc_control_data_type
+UVC_GUID_LOGITECH_MOTOR_CONTROL	../../plugins/input_uvc/dynctrl.h	33;"	d
+UVC_GUID_LOGITECH_USER_HW_CONTROL	../../plugins/input_uvc/dynctrl.h	34;"	d
+V4L2_CID_BACKLIGHT_COMPENSATION	../../plugins/input_uvc/uvcvideo.h	38;"	d
+V4L2_CID_BASE	../../plugins/input_uvc/uvc_compat.h	77;"	d
+V4L2_CID_BASE	../../plugins/input_uvc/uvc_compat.h	78;"	d
+V4L2_CID_EXPOSURE_ABSOLUTE	../../plugins/input_uvc/uvcvideo.h	52;"	d
+V4L2_CID_EXPOSURE_AUTO	../../plugins/input_uvc/uvcvideo.h	51;"	d
+V4L2_CID_EXPOSURE_AUTO_PRIORITY	../../plugins/input_uvc/uvcvideo.h	53;"	d
+V4L2_CID_FOCUS_ABSOLUTE	../../plugins/input_uvc/uvcvideo.h	44;"	d
+V4L2_CID_FOCUS_AUTO	../../plugins/input_uvc/uvcvideo.h	43;"	d
+V4L2_CID_FOCUS_LOGITECH	../../plugins/input_uvc/dynctrl.h	29;"	d
+V4L2_CID_FOCUS_RELATIVE	../../plugins/input_uvc/uvcvideo.h	45;"	d
+V4L2_CID_HUE_AUTO	../../plugins/input_uvc/uvcvideo.h	41;"	d
+V4L2_CID_LED1_FREQUENCY_LOGITECH	../../plugins/input_uvc/dynctrl.h	31;"	d
+V4L2_CID_LED1_MODE_LOGITECH	../../plugins/input_uvc/dynctrl.h	30;"	d
+V4L2_CID_PANTILT_RESET	../../plugins/input_uvc/uvcvideo.h	49;"	d
+V4L2_CID_PANTILT_RESET_LOGITECH	../../plugins/input_uvc/dynctrl.h	28;"	d
+V4L2_CID_PAN_RELATIVE	../../plugins/input_uvc/uvcvideo.h	47;"	d
+V4L2_CID_PAN_RELATIVE_LOGITECH	../../plugins/input_uvc/dynctrl.h	26;"	d
+V4L2_CID_POWER_LINE_FREQUENCY	../../plugins/input_uvc/uvcvideo.h	39;"	d
+V4L2_CID_PRIVATE_LAST	../../plugins/input_uvc/uvcvideo.h	58;"	d
+V4L2_CID_SHARPNESS	../../plugins/input_uvc/uvcvideo.h	40;"	d
+V4L2_CID_TILT_RELATIVE	../../plugins/input_uvc/uvcvideo.h	48;"	d
+V4L2_CID_TILT_RELATIVE_LOGITECH	../../plugins/input_uvc/dynctrl.h	27;"	d
+V4L2_CID_USER_BASE	../../plugins/input_uvc/uvc_compat.h	79;"	d
+V4L2_CID_USER_CLASS	../../plugins/input_uvc/uvc_compat.h	80;"	d
+V4L2_CID_WHITE_BALANCE_TEMPERATURE	../../plugins/input_uvc/uvcvideo.h	56;"	d
+V4L2_CID_WHITE_BALANCE_TEMPERATURE_AUTO	../../plugins/input_uvc/uvcvideo.h	55;"	d
+V4L2_CTRL_CLASS_MPEG	../../plugins/input_uvc/uvc_compat.h	62;"	d
+V4L2_CTRL_CLASS_USER	../../plugins/input_uvc/uvc_compat.h	61;"	d
+V4L2_CTRL_DRIVER_PRIV	../../plugins/input_uvc/uvc_compat.h	66;"	d
+V4L2_CTRL_FLAG_INACTIVE	../../plugins/input_uvc/uvc_compat.h	70;"	d
+V4L2_CTRL_FLAG_NEXT_CTRL	../../plugins/input_uvc/uvc_compat.h	74;"	d
+V4L2_CTRL_FLAG_READ_ONLY	../../plugins/input_uvc/uvc_compat.h	68;"	d
+V4L2_CTRL_FLAG_SLIDER	../../plugins/input_uvc/uvc_compat.h	71;"	d
+V4L2_CTRL_FLAG_UPDATE	../../plugins/input_uvc/uvc_compat.h	69;"	d
+V4L2_CTRL_ID2CLASS	../../plugins/input_uvc/uvc_compat.h	65;"	d
+V4L2_CTRL_ID_MASK	../../plugins/input_uvc/uvc_compat.h	64;"	d
+V4L2_FRMIVAL_TYPE_CONTINUOUS	../../plugins/input_uvc/uvc_compat.h	/^	V4L2_FRMIVAL_TYPE_CONTINUOUS	= 2,$/;"	e	enum:v4l2_frmivaltypes
+V4L2_FRMIVAL_TYPE_DISCRETE	../../plugins/input_uvc/uvc_compat.h	/^	V4L2_FRMIVAL_TYPE_DISCRETE	= 1,$/;"	e	enum:v4l2_frmivaltypes
+V4L2_FRMIVAL_TYPE_STEPWISE	../../plugins/input_uvc/uvc_compat.h	/^	V4L2_FRMIVAL_TYPE_STEPWISE	= 3$/;"	e	enum:v4l2_frmivaltypes
+V4L2_FRMSIZE_TYPE_CONTINUOUS	../../plugins/input_uvc/uvc_compat.h	/^	V4L2_FRMSIZE_TYPE_CONTINUOUS	= 2,$/;"	e	enum:v4l2_frmsizetypes
+V4L2_FRMSIZE_TYPE_DISCRETE	../../plugins/input_uvc/uvc_compat.h	/^	V4L2_FRMSIZE_TYPE_DISCRETE	= 1,$/;"	e	enum:v4l2_frmsizetypes
+V4L2_FRMSIZE_TYPE_STEPWISE	../../plugins/input_uvc/uvc_compat.h	/^	V4L2_FRMSIZE_TYPE_STEPWISE	= 3$/;"	e	enum:v4l2_frmsizetypes
+VGA	../../plugins/input_gspcav1/spcav4l.h	54;"	d
+VIDEO_PALETTE_JPEG	../../plugins/input_gspcav1/jconfig.h	8;"	d
+VIDEO_PALETTE_JPEG	../../plugins/input_gspcav1/spcav4l.h	46;"	d
+VIDEO_PALETTE_RAW_JPEG	../../plugins/input_gspcav1/jconfig.h	7;"	d
+VIDIOC_ENUM_FRAMEINTERVALS	../../plugins/input_uvc/uvc_compat.h	162;"	d
+VIDIOC_ENUM_FRAMESIZES	../../plugins/input_uvc/uvc_compat.h	161;"	d
+VIDIOC_G_EXT_CTRLS	../../plugins/input_uvc/uvc_compat.h	82;"	d
+VIDIOC_S_EXT_CTRLS	../../plugins/input_uvc/uvc_compat.h	83;"	d
+VIDIOC_TRY_EXT_CTRLS	../../plugins/input_uvc/uvc_compat.h	84;"	d
+WIDTH	../../plugins/input_gspcav1/spcav4l.h	48;"	d
+XMP	../../plugins/input_gspcav1/utils.c	937;"	d	file:
+XPM	../../plugins/input_gspcav1/utils.c	938;"	d	file:
+XPP	../../plugins/input_gspcav1/utils.c	936;"	d	file:
+XU_HW_CONTROL_LED1	../../plugins/input_uvc/dynctrl.h	36;"	d
+XU_MOTORCONTROL_FOCUS	../../plugins/input_uvc/dynctrl.h	39;"	d
+XU_MOTORCONTROL_PANTILT_RELATIVE	../../plugins/input_uvc/dynctrl.h	37;"	d
+XU_MOTORCONTROL_PANTILT_RESET	../../plugins/input_uvc/dynctrl.h	38;"	d
+Y1	../../plugins/input_gspcav1/encoder.h	/^INT16 Y1[BLOCK_SIZE];$/;"	v
+Y2	../../plugins/input_gspcav1/encoder.h	/^INT16 Y2[BLOCK_SIZE];$/;"	v
+Y3	../../plugins/input_gspcav1/encoder.h	/^INT16 Y3[BLOCK_SIZE];$/;"	v
+Y4	../../plugins/input_gspcav1/encoder.h	/^INT16 Y4[BLOCK_SIZE];$/;"	v
+YUV420P	../../plugins/input_gspcav1/spcav4l.h	63;"	d
+YUV420toRGB	../../plugins/input_gspcav1/utils.c	/^YUV420toRGB (unsigned char *src, unsigned char *dst, int width, int height,$/;"	f
+YUVY	../../plugins/input_gspcav1/jconfig.h	/^	YUVY,$/;"	e	enum:__anon17
+YUVY	../../plugins/input_gspcav1/spcav4l.h	/^	YUVY,$/;"	e	enum:__anon20
+YUV_2_420	../../plugins/input_gspcav1/encoder.c	/^YUV_2_420 (UINT8 * input_ptr, UINT8 * output_ptr, UINT32 image_width,$/;"	f	file:
+YUV_2_422	../../plugins/input_gspcav1/encoder.c	/^YUV_2_422 (UINT8 * input_ptr, UINT8 * output_ptr, UINT32 image_width,$/;"	f	file:
+YUV_2_444	../../plugins/input_gspcav1/encoder.c	/^YUV_2_444 (UINT8 * input_ptr, UINT8 * output_ptr, UINT32 image_width,$/;"	f	file:
+YUVto420	../../plugins/input_gspcav1/encoder.h	45;"	d
+YUVto422	../../plugins/input_gspcav1/encoder.h	44;"	d
+YUVto444	../../plugins/input_gspcav1/encoder.h	43;"	d
+YUYV	../../plugins/input_gspcav1/jconfig.h	/^	YUYV,$/;"	e	enum:__anon17
+YUYV	../../plugins/input_gspcav1/spcav4l.h	/^	YUYV,$/;"	e	enum:__anon20
+YYUV	../../plugins/input_gspcav1/jconfig.h	/^	YYUV,$/;"	e	enum:__anon17
+YYUV	../../plugins/input_gspcav1/spcav4l.h	/^	YYUV,$/;"	e	enum:__anon20
+_USB_VIDEO_H_	../../plugins/input_uvc/uvcvideo.h	26;"	d
+_UVC_COMPAT_H	../../plugins/input_uvc/uvc_compat.h	27;"	d
+__P	../../plugins/input_gspcav1/utils.c	276;"	d	file:
+__user	../../plugins/input_uvc/uvc_compat.h	32;"	d
+_globals	../../mjpg_streamer.h	/^struct _globals {$/;"	s
+_in_cmd_type	../../plugins/input.h	/^enum _in_cmd_type {$/;"	g
+_input	../../plugins/input.h	/^struct _input {$/;"	s
+_input_parameter	../../plugins/input.h	/^struct _input_parameter {$/;"	s
+_out_cmd_type	../../plugins/output.h	/^enum _out_cmd_type {$/;"	g
+_output	../../plugins/output.h	/^struct _output {$/;"	s
+_output_parameter	../../plugins/output.h	/^struct _output_parameter {$/;"	s
+_read	../../plugins/output_http/httpd.c	/^int _read(int fd, iobuffer *iobuf, void *buffer, size_t len, int timeout) {$/;"	f
+_readline	../../plugins/output_http/httpd.c	/^int _readline(int fd, iobuffer *iobuf, void *buffer, size_t len, int timeout) {$/;"	f
+aaidct	../../plugins/input_gspcav1/utils.c	/^static PREC aaidct[8] = {$/;"	v	file:
+acknowledge	../../plugins/input_gspcav1/spcaframe.h	/^	int acknowledge;$/;"	m	struct:frame_t
+alpha	../../plugins/input_gspcav1/utils.h	/^	unsigned char alpha;$/;"	m	struct:Myrgb32
+answer_t	../../plugins/output_http/httpd.h	/^typedef enum { A_UNKNOWN, A_SNAPSHOT, A_STREAM, A_COMMAND, A_FILE } answer_t;$/;"	t	typeref:enum:__anon9
+autobright	../../plugins/input_gspcav1/jconfig.h	/^	__u8 autobright;$/;"	m	struct:video_param
+autobright	../../plugins/input_gspcav1/spcav4l.h	/^	__u8 autobright;$/;"	m	struct:video_param
+bitindex	../../plugins/input_gspcav1/encoder.h	/^UINT16 bitindex;$/;"	v
+bits	../../plugins/input_gspcav1/utils.c	/^	unsigned int bits;$/;"	m	struct:in	file:
+bitsize	../../plugins/input_gspcav1/huffman.c	/^UINT8 bitsize[] = {$/;"	v
+blue	../../plugins/input_gspcav1/utils.h	/^	unsigned char blue;$/;"	m	struct:Myrgb24
+blue	../../plugins/input_gspcav1/utils.h	/^	unsigned char blue;$/;"	m	struct:Myrgb32
+blue	../../plugins/input_gspcav1/utils.h	/^	unsigned short blue:5;$/;"	m	struct:Myrgb16
+bpp	../../plugins/input_gspcav1/jconfig.h	/^int bpp;$/;"	v
+bppIn	../../plugins/input_gspcav1/spcav4l.h	/^	int bppIn;$/;"	m	struct:vdIn
+bridge	../../plugins/input_gspcav1/spcav4l.h	/^	char bridge[9];$/;"	m	struct:vdIn
+bridge_list	../../plugins/input_gspcav1/jconfig.h	/^struct bridge_list {$/;"	s
+bridge_list	../../plugins/input_gspcav1/spcav4l.h	/^struct bridge_list {$/;"	s
+bright	../../plugins/input_gspcav1/spcaframe.h	/^	unsigned short bright;$/;"	m	struct:frame_t
+buf	../../mjpg_streamer.h	/^  unsigned char *buf;$/;"	m	struct:_globals
+buf	../../plugins/input_uvc/v4l2uvc.h	/^    struct v4l2_buffer buf;$/;"	m	struct:vdIn	typeref:struct:vdIn::v4l2_buffer
+buffer	../../plugins/input_uvc/jpeg_utils.c	/^  JOCTET * buffer;    \/* start of buffer *\/$/;"	m	struct:__anon5	file:
+buffer	../../plugins/output_http/httpd.h	/^  char buffer[IO_BUFFER]; \/* the data *\/$/;"	m	struct:__anon11
+bytes	../../plugins/output_file/output_file.c	/^static int fd, delay, bytes;$/;"	v	file:
+bytesWritten	../../plugins/input_uvc/v4l2uvc.h	/^    unsigned int bytesWritten;$/;"	m	struct:vdIn
+cam	../../plugins/input_gspcav1/input_gspcav1.c	/^pthread_t cam;$/;"	v
+cam	../../plugins/input_uvc/input_uvc.c	/^pthread_t cam;$/;"	v
+cam_cleanup	../../plugins/input_gspcav1/input_gspcav1.c	/^void cam_cleanup(void *arg) {$/;"	f
+cam_cleanup	../../plugins/input_uvc/input_uvc.c	/^void cam_cleanup(void *arg) {$/;"	f
+cam_thread	../../plugins/input_gspcav1/input_gspcav1.c	/^void *cam_thread( void *arg ) {$/;"	f
+cam_thread	../../plugins/input_uvc/input_uvc.c	/^void *cam_thread( void *arg ) {$/;"	f
+cameraname	../../plugins/input_gspcav1/spcav4l.h	/^	char *cameraname;$/;"	m	struct:vdIn
+cameratype	../../plugins/input_gspcav1/spcav4l.h	/^	int cameratype ;$/;"	m	struct:vdIn
+cap	../../plugins/input_uvc/v4l2uvc.h	/^    struct v4l2_capability cap;$/;"	m	struct:vdIn	typeref:struct:vdIn::v4l2_capability
+captureFile	../../plugins/input_uvc/v4l2uvc.h	/^    FILE *captureFile;$/;"	m	struct:vdIn
+cfd	../../plugins/output_http/httpd.h	/^} cfd;$/;"	t	typeref:struct:__anon14
+changeSize	../../plugins/input_gspcav1/spcav4l.c	/^changeSize (struct vdIn *vd)$/;"	f
+channel	../../plugins/input_gspcav1/spcav4l.h	/^	int channel ; \/\/ set spca506 usb video grabber$/;"	m	struct:vdIn
+check_palettesize	../../plugins/input_gspcav1/spcav4l.c	/^static int check_palettesize(struct vdIn *vd ){$/;"	f	file:
+checkpalette	../../plugins/input_gspcav1/spcav4l.c	/^static int checkpalette (struct vdIn *vd)$/;"	f	file:
+chg_para	../../plugins/input_gspcav1/jconfig.h	/^	int chg_para;$/;"	m	struct:video_param
+chg_para	../../plugins/input_gspcav1/spcav4l.h	/^	int chg_para;$/;"	m	struct:video_param
+chrominance_ac_code_table	../../plugins/input_gspcav1/huffman.c	/^UINT16 chrominance_ac_code_table[] = {$/;"	v
+chrominance_ac_size_table	../../plugins/input_gspcav1/huffman.c	/^UINT16 chrominance_ac_size_table[] = {$/;"	v
+chrominance_dc_code_table	../../plugins/input_gspcav1/huffman.c	/^UINT16 chrominance_dc_code_table[] = {$/;"	v
+chrominance_dc_size_table	../../plugins/input_gspcav1/huffman.c	/^UINT16 chrominance_dc_size_table[] = {$/;"	v
+cid	../../plugins/input_gspcav1/utils.c	/^	int cid;		\/* component id *\/$/;"	m	struct:scan	file:
+cid	../../plugins/input_gspcav1/utils.c	/^	int cid;$/;"	m	struct:comp	file:
+client	../../plugins/output_http/httpd.h	/^  char *client;$/;"	m	struct:__anon10
+client_t	../../plugins/input_gspcav1/spcaframe.h	/^struct client_t{$/;"	s
+client_thread	../../plugins/output_http/httpd.c	/^void *client_thread( void *arg ) {$/;"	f
+close_bitstream	../../plugins/input_gspcav1/huffman.c	/^  UINT8 * close_bitstream (UINT8 * output_ptr) $/;"	f
+close_v4l	../../plugins/input_gspcav1/spcav4l.c	/^close_v4l (struct vdIn *vd)$/;"	f
+close_v4l2	../../plugins/input_uvc/v4l2uvc.c	/^int close_v4l2(struct vdIn *vd)$/;"	f
+cmd	../../plugins/input.h	/^  int (*cmd)(in_cmd_type, int);$/;"	m	struct:_input
+cmd	../../plugins/output.h	/^  int (*cmd)(int, out_cmd_type, int);$/;"	m	struct:_output
+cmd	../../plugins/output_http/httpd.h	/^  const in_cmd_type cmd;$/;"	m	struct:__anon7
+cmd	../../plugins/output_http/httpd.h	/^  const out_cmd_type cmd;$/;"	m	struct:__anon8
+col221111	../../plugins/input_gspcav1/utils.c	/^static void col221111(out, pic, width)$/;"	f	file:
+colors	../../plugins/input_gspcav1/spcaframe.h	/^	unsigned short colors;$/;"	m	struct:frame_t
+cols	../../plugins/input_gspcav1/encoder.h	/^  UINT16 cols;$/;"	m	struct:JPEG_ENCODER_STRUCTURE
+cols_in_right_mcus	../../plugins/input_gspcav1/encoder.h	/^  UINT16 cols_in_right_mcus;$/;"	m	struct:JPEG_ENCODER_STRUCTURE
+command	../../plugins/output_file/output_file.c	/^static char *command = NULL;$/;"	v	file:
+command	../../plugins/output_http/httpd.c	/^void command(int id, int fd, char *parameter) {$/;"	f
+comp	../../plugins/input_gspcav1/utils.c	/^struct comp {$/;"	s	file:
+compress_yuyv_to_jpeg	../../plugins/input_uvc/jpeg_utils.c	/^int compress_yuyv_to_jpeg(struct vdIn *vd, unsigned char *buffer, int size, int quality) {$/;"	f
+comps	../../plugins/input_gspcav1/utils.c	/^static struct comp comps[MAXCOMP];$/;"	v	typeref:struct:comp	file:
+conf	../../plugins/output_http/httpd.h	/^  config conf;$/;"	m	struct:__anon13
+config	../../plugins/output_http/httpd.h	/^} config;$/;"	t	typeref:struct:__anon12
+context	../../plugins/output_http/httpd.h	/^} context;$/;"	t	typeref:struct:__anon13
+contrast	../../plugins/input_gspcav1/spcaframe.h	/^	unsigned short contrast;$/;"	m	struct:frame_t
+controls	../../plugins/input_uvc/uvc_compat.h	/^	struct v4l2_ext_control *controls;$/;"	m	struct:v4l2_ext_controls	typeref:struct:v4l2_ext_controls::v4l2_ext_control
+controls_mutex	../../plugins/input_testpicture/input_testpicture.c	/^static pthread_mutex_t controls_mutex;$/;"	v	file:
+controls_mutex	../../plugins/input_uvc/input_uvc.c	/^pthread_mutex_t controls_mutex;$/;"	v
+convertframe	../../plugins/input_gspcav1/spcav4l.c	/^convertframe(unsigned char *dst,unsigned char *src, int width,int height, int formatIn, int qualite)$/;"	f
+convertpalette	../../plugins/input_gspcav1/spcav4l.c	/^static int convertpalette( int palette)$/;"	f	file:
+convertsize	../../plugins/input_gspcav1/spcav4l.c	/^static int convertsize( int width, int height)$/;"	f	file:
+count	../../plugins/input_uvc/uvc_compat.h	/^	__u32 count;$/;"	m	struct:v4l2_ext_controls
+createImageLayer	../../www/javascript.html	/^      function createImageLayer() {$/;"	f
+createImageLayer	../../www/javascript_simple.html	/^function createImageLayer() {$/;"	f
+credentials	../../plugins/output_http/httpd.h	/^  char *credentials;$/;"	m	struct:__anon10
+credentials	../../plugins/output_http/httpd.h	/^  char *credentials;$/;"	m	struct:__anon12
+ctrl_class	../../plugins/input_uvc/uvc_compat.h	/^	__u32 ctrl_class;$/;"	m	struct:v4l2_ext_controls
+daemon_mode	../../utils.c	/^void daemon_mode(void) {$/;"	f
+data	../../plugins/input_gspcav1/utils.c	/^	void *data;$/;"	m	struct:in	file:
+data	../../plugins/input_testpicture/input_testpicture.c	/^  const unsigned char *data;$/;"	m	struct:pic	file:
+data	../../plugins/input_uvc/uvcvideo.h	/^	__u8 __user *data;$/;"	m	struct:uvc_xu_control
+data_type	../../plugins/input_uvc/uvcvideo.h	/^	enum uvc_control_data_type data_type;$/;"	m	struct:uvc_xu_control_mapping	typeref:enum:uvc_xu_control_mapping::uvc_control_data_type
+datap	../../plugins/input_gspcav1/utils.c	/^static unsigned char *datap;$/;"	v	file:
+db	../../mjpg_streamer.h	/^  pthread_mutex_t db;$/;"	m	struct:_globals
+db_update	../../mjpg_streamer.h	/^  pthread_cond_t  db_update;$/;"	m	struct:_globals
+dc	../../plugins/input_gspcav1/utils.c	/^	int dc;			\/* old dc value *\/$/;"	m	struct:scan	file:
+dcts	../../plugins/input_gspcav1/utils.c	/^	int dcts[6 * 64 + 16];$/;"	m	struct:jpeg_decdata	file:
+debug	../../plugins/input_uvc/v4l2uvc.c	/^static int debug = 0;$/;"	v	file:
+dec_checkmarker	../../plugins/input_gspcav1/utils.c	/^static int dec_checkmarker(void)$/;"	f	file:
+dec_huffac	../../plugins/input_gspcav1/utils.c	404;"	d	file:
+dec_huffdc	../../plugins/input_gspcav1/utils.c	403;"	d	file:
+dec_hufftbl	../../plugins/input_gspcav1/utils.c	/^struct dec_hufftbl {$/;"	s	file:
+dec_initscans	../../plugins/input_gspcav1/utils.c	/^static void dec_initscans(void)$/;"	f	file:
+dec_makehuff	../../plugins/input_gspcav1/utils.c	/^static void dec_makehuff(hu, hufflen, huffvals)$/;"	f	file:
+dec_readmarker	../../plugins/input_gspcav1/utils.c	/^static int dec_readmarker(in)$/;"	f	file:
+dec_rec2	../../plugins/input_gspcav1/utils.c	/^static int dec_rec2(in, hu, runp, c, i)$/;"	f	file:
+decodeBase64	../../plugins/output_http/httpd.c	/^void decodeBase64(char *data) {$/;"	f
+decode_mcus	../../plugins/input_gspcav1/utils.c	/^static void decode_mcus(in, dct, n, sc, maxp)$/;"	f	file:
+delay	../../plugins/input_file/input_file.c	/^static int delay = 1000;$/;"	v	file:
+delay	../../plugins/input_testpicture/input_testpicture.c	/^static int delay = 1000;$/;"	v	file:
+delay	../../plugins/output_autofocus/output_autofocus.c	/^static int fd, delay;$/;"	v	file:
+delay	../../plugins/output_file/output_file.c	/^static int fd, delay, bytes;$/;"	v	file:
+deltatimes	../../plugins/input_gspcav1/spcaframe.h	/^	int deltatimes;$/;"	m	struct:frame_t
+dest_buffer	../../plugins/input_uvc/jpeg_utils.c	/^GLOBAL(void) dest_buffer(j_compress_ptr cinfo, unsigned char *buffer, int size, int *written) {$/;"	f
+dht_data	../../plugins/input_uvc/huffman.h	/^const static unsigned char dht_data[] = {$/;"	v
+dhuff	../../plugins/input_gspcav1/utils.c	/^	struct dec_hufftbl *dhuff;$/;"	m	union:hufftblp	typeref:struct:hufftblp::dec_hufftbl	file:
+dhuff	../../plugins/input_gspcav1/utils.c	/^static struct dec_hufftbl dhuff[4];$/;"	v	typeref:struct:dec_hufftbl	file:
+discrete	../../plugins/input_uvc/uvc_compat.h	/^		struct v4l2_fract		discrete;$/;"	m	union:v4l2_frmivalenum::__anon3	typeref:struct:v4l2_frmivalenum::__anon3::v4l2_fract
+discrete	../../plugins/input_uvc/uvc_compat.h	/^		struct v4l2_frmsize_discrete	discrete;$/;"	m	union:v4l2_frmsizeenum::__anon2	typeref:struct:v4l2_frmsizeenum::__anon2::v4l2_frmsize_discrete
+dot_extension	../../plugins/output_http/httpd.h	/^  const char *dot_extension;$/;"	m	struct:__anon6
+downbright	../../plugins/input_gspcav1/spcav4l.c	/^unsigned short downbright( struct vdIn *vdin)$/;"	f
+downcontrast	../../plugins/input_gspcav1/spcav4l.c	/^unsigned short downcontrast( struct vdIn *vdin)$/;"	f
+dquant	../../plugins/input_gspcav1/utils.c	/^	int dquant[3][64];$/;"	m	struct:jpeg_decdata	file:
+dri	../../plugins/input_gspcav1/utils.c	/^	int dri;		\/* restart interval *\/$/;"	m	struct:jpginfo	file:
+dscans	../../plugins/input_gspcav1/utils.c	/^static struct scan dscans[MAXCOMP];$/;"	v	typeref:struct:scan	file:
+dynctrls	../../plugins/input_uvc/input_uvc.c	/^static int dynctrls = 1;$/;"	v	file:
+ehuff	../../plugins/input_gspcav1/utils.c	/^	struct enc_hufftbl *ehuff;$/;"	m	union:hufftblp	typeref:struct:hufftblp::enc_hufftbl	file:
+encodeMCU	../../plugins/input_gspcav1/encoder.c	/^encodeMCU (JPEG_ENCODER_STRUCTURE * jpeg_encoder_structure,$/;"	f	file:
+encode_image	../../plugins/input_gspcav1/encoder.c	/^UINT32 encode_image (UINT8 * input_ptr, UINT8 * output_ptr,$/;"	f
+entity	../../plugins/input_uvc/uvcvideo.h	/^	__u8 entity[16];$/;"	m	struct:uvc_xu_control_info
+entity	../../plugins/input_uvc/uvcvideo.h	/^	__u8 entity[16];$/;"	m	struct:uvc_xu_control_mapping
+equalize	../../plugins/input_gspcav1/utils.c	/^void equalize (unsigned char *src, int width, int height, int format)$/;"	f
+error_idx	../../plugins/input_uvc/uvc_compat.h	/^	__u32 error_idx;$/;"	m	struct:v4l2_ext_controls
+exit_fatal	../../plugins/input_gspcav1/utils.c	/^void exit_fatal(char *messages)$/;"	f
+exposure	../../plugins/input_gspcav1/spcaframe.h	/^	unsigned short exposure;$/;"	m	struct:frame_t
+fd	../../plugins/input_gspcav1/spcav4l.h	/^	int fd;$/;"	m	struct:vdIn
+fd	../../plugins/input_uvc/v4l2uvc.h	/^    int fd;$/;"	m	struct:vdIn
+fd	../../plugins/output_autofocus/output_autofocus.c	/^static int fd, delay;$/;"	v	file:
+fd	../../plugins/output_file/output_file.c	/^static int fd, delay, bytes;$/;"	v	file:
+fd	../../plugins/output_http/httpd.h	/^  int fd;$/;"	m	struct:__anon14
+fileCounter	../../plugins/input_uvc/v4l2uvc.h	/^    unsigned int fileCounter;$/;"	m	struct:vdIn
+fillbits	../../plugins/input_gspcav1/utils.c	/^static int fillbits(in, le, bi)$/;"	f	file:
+flags	../../plugins/input_uvc/uvcvideo.h	/^	__u32 flags;$/;"	m	struct:uvc_xu_control_info
+fmt	../../plugins/input_uvc/v4l2uvc.h	/^    struct v4l2_format fmt;$/;"	m	struct:vdIn	typeref:struct:vdIn::v4l2_format
+folder	../../plugins/input_file/input_file.c	/^static char *folder = NULL;$/;"	v	file:
+folder	../../plugins/output_file/output_file.c	/^static char *folder = "\/tmp";$/;"	v	file:
+format	../../plugins/input_gspcav1/input_gspcav1.c	/^  const int format;$/;"	m	struct:__anon22	file:
+format	../../plugins/input_gspcav1/spcaframe.h	/^	int format;$/;"	m	struct:frame_t
+formatIn	../../plugins/input_gspcav1/spcav4l.h	/^	int  formatIn;$/;"	m	struct:vdIn
+formatIn	../../plugins/input_uvc/v4l2uvc.h	/^    int formatIn;$/;"	m	struct:vdIn
+formatOut	../../plugins/input_uvc/v4l2uvc.h	/^    int formatOut;$/;"	m	struct:vdIn
+formats	../../plugins/input_gspcav1/input_gspcav1.c	/^} formats[] = {$/;"	v	typeref:struct:__anon22	file:
+fps	../../plugins/input_gspcav1/spcaframe.h	/^	unsigned char fps;$/;"	m	struct:client_t
+fps	../../plugins/input_uvc/v4l2uvc.h	/^    int fps;$/;"	m	struct:vdIn
+frame	../../plugins/output_autofocus/output_autofocus.c	/^static unsigned char *frame=NULL;$/;"	v	file:
+frame	../../plugins/output_file/output_file.c	/^static unsigned char *frame=NULL;$/;"	v	file:
+frame_cour	../../plugins/input_gspcav1/spcav4l.h	/^	volatile int frame_cour;$/;"	m	struct:vdIn
+frame_t	../../plugins/input_gspcav1/spcaframe.h	/^struct frame_t{$/;"	s
+framebuffer	../../plugins/input_uvc/v4l2uvc.h	/^    unsigned char *framebuffer;$/;"	m	struct:vdIn
+framecount	../../plugins/input_uvc/v4l2uvc.h	/^    int framecount;$/;"	m	struct:vdIn
+framelock	../../plugins/input_gspcav1/spcav4l.h	/^	int framelock[4];$/;"	m	struct:vdIn
+framesWritten	../../plugins/input_uvc/v4l2uvc.h	/^    unsigned int framesWritten;$/;"	m	struct:vdIn
+framesizeIn	../../plugins/input_gspcav1/spcav4l.h	/^	int framesizeIn ;$/;"	m	struct:vdIn
+framesizeIn	../../plugins/input_uvc/v4l2uvc.h	/^    int framesizeIn;$/;"	m	struct:vdIn
+free_request	../../plugins/output_http/httpd.c	/^void free_request(request *req) {$/;"	f
+func	../../plugins/input_gspcav1/utils.c	/^	int (*func) __P((void *));$/;"	m	struct:in	file:
+getFrameSharpnessValue	../../plugins/output_autofocus/processJPEG_onlyCenter.c	/^double getFrameSharpnessValue(unsigned char *data, int len) {$/;"	f
+getPict	../../plugins/input_uvc/v4l2uvc.h	/^    int getPict;$/;"	m	struct:vdIn
+get_jpegsize	../../plugins/input_gspcav1/utils.c	/^ get_jpegsize (unsigned char *buf, int insize)$/;"	f
+getbyte	../../plugins/input_gspcav1/utils.c	/^static int getbyte(void)$/;"	f	file:
+getword	../../plugins/input_gspcav1/utils.c	/^static int getword(void)$/;"	f	file:
+global	../../mjpg_streamer.c	/^static globals global;$/;"	v	file:
+global	../../plugins/input.h	/^  struct _globals *global;$/;"	m	struct:_input_parameter	typeref:struct:_input_parameter::_globals
+global	../../plugins/output.h	/^  struct _globals *global;$/;"	m	struct:_output_parameter	typeref:struct:_output_parameter::_globals
+globals	../../mjpg_streamer.h	/^typedef struct _globals globals;$/;"	t	typeref:struct:_globals
+gquality	../../plugins/input_uvc/input_uvc.c	/^static int gquality = 80;$/;"	v	file:
+grabMethod	../../plugins/input_gspcav1/spcav4l.h	/^	int grabMethod ;$/;"	m	struct:vdIn
+grabmethod	../../plugins/input_uvc/v4l2uvc.h	/^    int grabmethod;$/;"	m	struct:vdIn
+grabmutex	../../plugins/input_gspcav1/spcav4l.h	/^	pthread_mutex_t grabmutex;$/;"	m	struct:vdIn
+green	../../plugins/input_gspcav1/utils.h	/^	unsigned char green;$/;"	m	struct:Myrgb24
+green	../../plugins/input_gspcav1/utils.h	/^	unsigned char green;$/;"	m	struct:Myrgb32
+green	../../plugins/input_gspcav1/utils.h	/^	unsigned short green:6;$/;"	m	struct:Myrgb16
+h	../../plugins/input_gspcav1/spcaframe.h	/^	int h;$/;"	m	struct:frame_t
+handle	../../plugins/input.h	/^  void *handle;$/;"	m	struct:_input
+handle	../../plugins/output.h	/^  void *handle;$/;"	m	struct:_output
+hdrheight	../../plugins/input_gspcav1/spcav4l.h	/^	int  hdrheight;$/;"	m	struct:vdIn
+hdrwidth	../../plugins/input_gspcav1/spcav4l.h	/^	int  hdrwidth;$/;"	m	struct:vdIn
+header	../../plugins/input_gspcav1/spcaframe.h	/^	char header[5];$/;"	m	struct:frame_t
+height	../../plugins/input_gspcav1/input_gspcav1.c	/^  const int width, height;$/;"	m	struct:__anon21	file:
+height	../../plugins/input_uvc/input_uvc.c	/^  const int width, height;$/;"	m	struct:__anon4	file:
+height	../../plugins/input_uvc/uvc_compat.h	/^	__u32			height;		\/* Frame height *\/$/;"	m	struct:v4l2_frmivalenum
+height	../../plugins/input_uvc/uvc_compat.h	/^	__u32			height;		\/* Frame height [pixel] *\/$/;"	m	struct:v4l2_frmsize_discrete
+height	../../plugins/input_uvc/v4l2uvc.h	/^    int height;$/;"	m	struct:vdIn
+help	../../mjpg_streamer.c	/^void help(char *progname)$/;"	f
+help	../../plugins/input_file/input_file.c	/^void help(void) {$/;"	f
+help	../../plugins/input_gspcav1/input_gspcav1.c	/^void help(void) {$/;"	f
+help	../../plugins/input_testpicture/input_testpicture.c	/^void help(void) {$/;"	f
+help	../../plugins/input_uvc/input_uvc.c	/^void help(void) {$/;"	f
+help	../../plugins/output_autofocus/output_autofocus.c	/^void help(void) {$/;"	f
+help	../../plugins/output_file/output_file.c	/^void help(void) {$/;"	f
+help	../../plugins/output_http/output_http.c	/^void help(void) {$/;"	f
+horizontal_mcus	../../plugins/input_gspcav1/encoder.h	/^  UINT16 horizontal_mcus;$/;"	m	struct:JPEG_ENCODER_STRUCTURE
+huac	../../plugins/input_gspcav1/utils.c	/^	union hufftblp huac;$/;"	m	struct:scan	typeref:union:scan::hufftblp	file:
+hudc	../../plugins/input_gspcav1/utils.c	/^	union hufftblp hudc;$/;"	m	struct:scan	typeref:union:scan::hufftblp	file:
+huffman	../../plugins/input_gspcav1/huffman.c	/^UINT8 * huffman (JPEG_ENCODER_STRUCTURE * jpeg_encoder_structure,$/;"	f
+hufftblp	../../plugins/input_gspcav1/utils.c	/^union hufftblp {$/;"	u	file:
+hv	../../plugins/input_gspcav1/utils.c	/^	int hv;			\/* horiz\/vert, copied from comp *\/$/;"	m	struct:scan	file:
+hv	../../plugins/input_gspcav1/utils.c	/^	int hv;$/;"	m	struct:comp	file:
+id	../../plugins/input_uvc/uvc_compat.h	/^	__u32 id;$/;"	m	struct:v4l2_ext_control
+id	../../plugins/input_uvc/uvcvideo.h	/^	__u32 id;$/;"	m	struct:uvc_xu_control_mapping
+id	../../plugins/output.h	/^  int id;$/;"	m	struct:_output_parameter
+id	../../plugins/output_http/httpd.h	/^  int id;$/;"	m	struct:__anon13
+idct	../../plugins/input_gspcav1/utils.c	/^void idct(in, out, quant, off, max)$/;"	f
+idctqtab	../../plugins/input_gspcav1/utils.c	/^static void idctqtab(qin, qout)$/;"	f	file:
+imageOnclick	../../www/javascript.html	/^      function imageOnclick() { \/\/ Clicking on the image will pause the stream$/;"	f
+imageOnclick	../../www/javascript_simple.html	/^function imageOnclick() { \/\/ Clicking on the image will pause the stream$/;"	f
+imageOnload	../../www/javascript.html	/^      function imageOnload() {$/;"	f
+imageOnload	../../www/javascript_simple.html	/^function imageOnload() {$/;"	f
+in	../../mjpg_streamer.h	/^  input in;$/;"	m	struct:_globals
+in	../../plugins/input_gspcav1/utils.c	/^static struct in in;$/;"	v	typeref:struct:in	file:
+in	../../plugins/input_gspcav1/utils.c	/^struct in {$/;"	s	file:
+in_cmd_mapping	../../plugins/output_http/httpd.h	/^} in_cmd_mapping[] = {$/;"	v	typeref:struct:__anon7
+in_cmd_type	../../plugins/input.h	/^typedef enum _in_cmd_type in_cmd_type;$/;"	t	typeref:enum:_in_cmd_type
+incr	../../plugins/input_gspcav1/encoder.h	/^  UINT16 incr;$/;"	m	struct:JPEG_ENCODER_STRUCTURE
+indata	../../plugins/input_gspcav1/utils.h	/^typedef short indata;$/;"	t
+index	../../plugins/input_uvc/uvc_compat.h	/^	__u32			index;		\/* Frame format index *\/$/;"	m	struct:v4l2_frmivalenum
+index	../../plugins/input_uvc/uvc_compat.h	/^	__u32			index;		\/* Frame size number *\/$/;"	m	struct:v4l2_frmsizeenum
+index	../../plugins/input_uvc/uvcvideo.h	/^	__u8 index;$/;"	m	struct:uvc_xu_control_info
+info	../../plugins/input_gspcav1/utils.c	/^static struct jpginfo info;$/;"	v	typeref:struct:jpginfo	file:
+init	../../plugins/input.h	/^  int (*init)(input_parameter *);$/;"	m	struct:_input
+init	../../plugins/output.h	/^  int (*init)(output_parameter *);$/;"	m	struct:_output
+initDynCtrls	../../plugins/input_uvc/dynctrl.c	/^void initDynCtrls(int dev) {$/;"	f
+init_AJAX	../../www/functions.js	/^function init_AJAX() $/;"	f
+init_destination	../../plugins/input_uvc/jpeg_utils.c	/^METHODDEF(void) init_destination(j_compress_ptr cinfo) {$/;"	f
+init_iobuffer	../../plugins/output_http/httpd.c	/^void init_iobuffer(iobuffer *iobuf) {$/;"	f
+init_request	../../plugins/output_http/httpd.c	/^void init_request(request *req) {$/;"	f
+init_v4l	../../plugins/input_gspcav1/spcav4l.c	/^init_v4l (struct vdIn *vd)$/;"	f	file:
+init_v4l2	../../plugins/input_uvc/v4l2uvc.c	/^static int init_v4l2(struct vdIn *vd)$/;"	f	file:
+init_videoIn	../../plugins/input_gspcav1/spcav4l.c	/^init_videoIn (struct vdIn *vd, char *device, int width, int height,$/;"	f
+init_videoIn	../../plugins/input_uvc/v4l2uvc.c	/^int init_videoIn(struct vdIn *vd, char *device, int width, int height, int fps, int format, int grabmethod)$/;"	f
+initcol	../../plugins/input_gspcav1/utils.c	/^static void initcol(q)$/;"	f	file:
+initialization	../../plugins/input_gspcav1/encoder.c	/^initialization (JPEG_ENCODER_STRUCTURE * jpeg, UINT32 image_format,$/;"	f	file:
+initialize_quantization_tables	../../plugins/input_gspcav1/quant.c	/^initialize_quantization_tables (UINT32 quality_factor) $/;"	f
+input	../../plugins/input.h	/^typedef struct _input input;$/;"	t	typeref:struct:_input
+input_cmd	../../plugins/input_gspcav1/input_gspcav1.c	/^int input_cmd(in_cmd_type cmd, int value) {$/;"	f
+input_cmd	../../plugins/input_testpicture/input_testpicture.c	/^int input_cmd(in_cmd_type cmd, int value) {$/;"	f
+input_cmd	../../plugins/input_uvc/input_uvc.c	/^int input_cmd(in_cmd_type cmd, int value) {$/;"	f
+input_init	../../plugins/input_file/input_file.c	/^int input_init(input_parameter *param) {$/;"	f
+input_init	../../plugins/input_gspcav1/input_gspcav1.c	/^int input_init(input_parameter *param) {$/;"	f
+input_init	../../plugins/input_testpicture/input_testpicture.c	/^int input_init(input_parameter *param) {$/;"	f
+input_init	../../plugins/input_uvc/input_uvc.c	/^int input_init(input_parameter *param) {$/;"	f
+input_parameter	../../plugins/input.h	/^typedef struct _input_parameter input_parameter;$/;"	t	typeref:struct:_input_parameter
+input_run	../../plugins/input_file/input_file.c	/^int input_run(void) {$/;"	f
+input_run	../../plugins/input_gspcav1/input_gspcav1.c	/^int input_run(void) {$/;"	f
+input_run	../../plugins/input_testpicture/input_testpicture.c	/^int input_run(void) {$/;"	f
+input_run	../../plugins/input_uvc/input_uvc.c	/^int input_run(void) {$/;"	f
+input_stop	../../plugins/input_file/input_file.c	/^int input_stop(void) {$/;"	f
+input_stop	../../plugins/input_gspcav1/input_gspcav1.c	/^int input_stop(void) {$/;"	f
+input_stop	../../plugins/input_testpicture/input_testpicture.c	/^int input_stop(void) {$/;"	f
+input_stop	../../plugins/input_uvc/input_uvc.c	/^int input_stop(void) {$/;"	f
+iobuffer	../../plugins/output_http/httpd.h	/^} iobuffer;$/;"	t	typeref:struct:__anon11
+isSpcaChip	../../plugins/input_gspcav1/spcav4l.c	/^isSpcaChip (const char *BridgeName)$/;"	f
+is_huffman	../../plugins/input_uvc/v4l2uvc.c	/^int is_huffman(unsigned char *buf)$/;"	f
+isstreaming	../../plugins/input_uvc/v4l2uvc.h	/^    int isstreaming;$/;"	m	struct:vdIn
+isv4l2Control	../../plugins/input_uvc/v4l2uvc.c	/^static int isv4l2Control(struct vdIn *vd, int control, struct v4l2_queryctrl *queryctrl) {$/;"	f	file:
+jpeg_decdata	../../plugins/input_gspcav1/utils.c	/^struct jpeg_decdata {$/;"	s	file:
+jpeg_decode	../../plugins/input_gspcav1/utils.c	/^int jpeg_decode(unsigned char **pic, unsigned char *buf, int *width, int *height )$/;"	f
+jpginfo	../../plugins/input_gspcav1/utils.c	/^struct jpginfo {$/;"	s	file:
+lcode	../../plugins/input_gspcav1/encoder.h	/^INT32 lcode;$/;"	v
+ldc1	../../plugins/input_gspcav1/encoder.h	/^  INT16 ldc1;$/;"	m	struct:JPEG_ENCODER_STRUCTURE
+ldc2	../../plugins/input_gspcav1/encoder.h	/^  INT16 ldc2;$/;"	m	struct:JPEG_ENCODER_STRUCTURE
+ldc3	../../plugins/input_gspcav1/encoder.h	/^  INT16 ldc3;$/;"	m	struct:JPEG_ENCODER_STRUCTURE
+left	../../plugins/input_gspcav1/utils.c	/^	int left;$/;"	m	struct:in	file:
+length_minus_mcu_width	../../plugins/input_gspcav1/encoder.h	/^  UINT16 length_minus_mcu_width;$/;"	m	struct:JPEG_ENCODER_STRUCTURE
+length_minus_width	../../plugins/input_gspcav1/encoder.h	/^  UINT16 length_minus_width;$/;"	m	struct:JPEG_ENCODER_STRUCTURE
+level	../../plugins/output_http/httpd.h	/^  int level;              \/* how full is the buffer *\/$/;"	m	struct:__anon11
+light_freq	../../plugins/input_gspcav1/jconfig.h	/^	__u8 light_freq;$/;"	m	struct:video_param
+llvals	../../plugins/input_gspcav1/utils.c	/^	unsigned int llvals[1 << DECBITS];$/;"	m	struct:dec_hufftbl	file:
+luminance_ac_code_table	../../plugins/input_gspcav1/huffman.c	/^UINT16 luminance_ac_code_table[] = {$/;"	v
+luminance_ac_size_table	../../plugins/input_gspcav1/huffman.c	/^UINT16 luminance_ac_size_table[] = {$/;"	v
+luminance_dc_code_table	../../plugins/input_gspcav1/huffman.c	/^UINT16 luminance_dc_code_table[] = {$/;"	v
+luminance_dc_size_table	../../plugins/input_gspcav1/huffman.c	/^UINT16 luminance_dc_size_table[] = {$/;"	v
+main	../../mjpg_streamer.c	/^int main(int argc, char *argv[])$/;"	f
+marker	../../plugins/input_gspcav1/utils.c	/^	int marker;$/;"	m	struct:in	file:
+markerdata	../../plugins/input_gspcav1/marker.c	/^static UINT16 markerdata[] = { $/;"	v	file:
+max	../../plugins/input_uvc/uvc_compat.h	/^	struct v4l2_fract	max;		\/* Maximum frame interval [s] *\/$/;"	m	struct:v4l2_frmival_stepwise	typeref:struct:v4l2_frmival_stepwise::v4l2_fract
+max_height	../../plugins/input_uvc/uvc_compat.h	/^	__u32			max_height;	\/* Maximum frame height [pixel] *\/$/;"	m	struct:v4l2_frmsize_stepwise
+max_width	../../plugins/input_uvc/uvc_compat.h	/^	__u32			max_width;	\/* Maximum frame width [pixel] *\/$/;"	m	struct:v4l2_frmsize_stepwise
+maxcode	../../plugins/input_gspcav1/utils.c	/^	int maxcode[17];$/;"	m	struct:dec_hufftbl	file:
+mcu_height	../../plugins/input_gspcav1/encoder.h	/^  UINT16 mcu_height;$/;"	m	struct:JPEG_ENCODER_STRUCTURE
+mcu_width	../../plugins/input_gspcav1/encoder.h	/^  UINT16 mcu_width;$/;"	m	struct:JPEG_ENCODER_STRUCTURE
+mcu_width_size	../../plugins/input_gspcav1/encoder.h	/^  UINT16 mcu_width_size;$/;"	m	struct:JPEG_ENCODER_STRUCTURE
+mem	../../plugins/input_uvc/v4l2uvc.h	/^    void *mem[NB_BUFFER];$/;"	m	struct:vdIn
+memcpy_picture	../../plugins/input_uvc/v4l2uvc.c	/^int memcpy_picture(unsigned char *out, unsigned char *buf, int size)$/;"	f
+message	../../plugins/input_gspcav1/spcaframe.h	/^	char message[4];$/;"	m	struct:client_t
+mimetype	../../plugins/output_http/httpd.h	/^  const char *mimetype;$/;"	m	struct:__anon6
+mimetypes	../../plugins/output_http/httpd.h	/^} mimetypes[] = {$/;"	v	typeref:struct:__anon6
+min	../../plugins/input_uvc/uvc_compat.h	/^	struct v4l2_fract	min;		\/* Minimum frame interval [s] *\/$/;"	m	struct:v4l2_frmival_stepwise	typeref:struct:v4l2_frmival_stepwise::v4l2_fract
+min_height	../../plugins/input_uvc/uvc_compat.h	/^	__u32			min_height;	\/* Minimum frame height [pixel] *\/$/;"	m	struct:v4l2_frmsize_stepwise
+min_width	../../plugins/input_uvc/uvc_compat.h	/^	__u32			min_width;	\/* Minimum frame width [pixel] *\/$/;"	m	struct:v4l2_frmsize_stepwise
+minimum_size	../../plugins/input_uvc/input_uvc.c	/^static unsigned int minimum_size = 0;$/;"	v	file:
+mjpg_dest_ptr	../../plugins/input_uvc/jpeg_utils.c	/^typedef mjpg_destination_mgr * mjpg_dest_ptr;$/;"	t	file:
+mjpg_destination_mgr	../../plugins/input_uvc/jpeg_utils.c	/^} mjpg_destination_mgr;$/;"	t	typeref:struct:__anon5	file:
+mmapsize	../../plugins/input_gspcav1/spcav4l.h	/^	int mmapsize;$/;"	m	struct:vdIn
+ms_time	../../plugins/input_gspcav1/utils.c	/^ms_time (void)$/;"	f
+name	../../plugins/input_gspcav1/jconfig.h	/^	const char *name;$/;"	m	struct:bridge_list
+name	../../plugins/input_gspcav1/jconfig.h	/^	const char *name;$/;"	m	struct:palette_list
+name	../../plugins/input_gspcav1/spcav4l.h	/^	const char *name;$/;"	m	struct:bridge_list
+name	../../plugins/input_gspcav1/spcav4l.h	/^	const char *name;$/;"	m	struct:palette_list
+name	../../plugins/input_uvc/uvcvideo.h	/^	__u8 name[32];$/;"	m	struct:uvc_xu_control_mapping
+nbframe	../../plugins/input_gspcav1/spcaframe.h	/^	int nbframe;$/;"	m	struct:frame_t
+nc	../../plugins/input_gspcav1/utils.c	/^	int nc;			\/* number of components *\/$/;"	m	struct:jpginfo	file:
+next	../../plugins/input_gspcav1/utils.c	/^	int next;		\/* when to switch to next scan *\/$/;"	m	struct:scan	file:
+nm	../../plugins/input_gspcav1/utils.c	/^	int nm;			\/* mcus til next marker *\/$/;"	m	struct:jpginfo	file:
+nocommands	../../plugins/output_http/httpd.h	/^  char nocommands;$/;"	m	struct:__anon12
+norme	../../plugins/input_gspcav1/spcav4l.h	/^	int norme ; \/\/ set spca506 usb video grabber$/;"	m	struct:vdIn
+ns	../../plugins/input_gspcav1/utils.c	/^	int ns;			\/* number of scans *\/$/;"	m	struct:jpginfo	file:
+num	../../plugins/input_gspcav1/jconfig.h	/^	int num;$/;"	m	struct:bridge_list
+num	../../plugins/input_gspcav1/jconfig.h	/^	int num;$/;"	m	struct:palette_list
+num	../../plugins/input_gspcav1/spcav4l.h	/^	int num;$/;"	m	struct:bridge_list
+num	../../plugins/input_gspcav1/spcav4l.h	/^	int num;$/;"	m	struct:palette_list
+offset	../../plugins/input_gspcav1/encoder.h	/^  UINT16 offset;$/;"	m	struct:JPEG_ENCODER_STRUCTURE
+offset	../../plugins/input_uvc/uvcvideo.h	/^	__u8 offset;$/;"	m	struct:uvc_xu_control_mapping
+out	../../mjpg_streamer.h	/^  output out[MAX_OUTPUT_PLUGINS];$/;"	m	struct:_globals
+out	../../plugins/input_gspcav1/utils.c	/^	int out[64 * 6];$/;"	m	struct:jpeg_decdata	file:
+out_cmd_mapping	../../plugins/output_http/httpd.h	/^} out_cmd_mapping[] = {$/;"	v	typeref:struct:__anon8
+out_cmd_type	../../plugins/output.h	/^typedef enum _out_cmd_type out_cmd_type;$/;"	t	typeref:enum:_out_cmd_type
+outbuffer	../../plugins/input_uvc/jpeg_utils.c	/^  unsigned char *outbuffer;$/;"	m	struct:__anon5	file:
+outbuffer_cursor	../../plugins/input_uvc/jpeg_utils.c	/^  unsigned char *outbuffer_cursor;$/;"	m	struct:__anon5	file:
+outbuffer_size	../../plugins/input_uvc/jpeg_utils.c	/^  int outbuffer_size;$/;"	m	struct:__anon5	file:
+outcnt	../../mjpg_streamer.h	/^  int outcnt;$/;"	m	struct:_globals
+output	../../plugins/output.h	/^typedef struct _output output;$/;"	t	typeref:struct:_output
+output_cmd	../../plugins/output_http/output_http.c	/^int output_cmd(int id, out_cmd_type cmd, int value) {$/;"	f
+output_init	../../plugins/output_autofocus/output_autofocus.c	/^int output_init(output_parameter *param) {$/;"	f
+output_init	../../plugins/output_file/output_file.c	/^int output_init(output_parameter *param) {$/;"	f
+output_init	../../plugins/output_http/output_http.c	/^int output_init(output_parameter *param) {$/;"	f
+output_parameter	../../plugins/output.h	/^typedef struct _output_parameter output_parameter;$/;"	t	typeref:struct:_output_parameter
+output_run	../../plugins/output_autofocus/output_autofocus.c	/^int output_run(int id) {$/;"	f
+output_run	../../plugins/output_file/output_file.c	/^int output_run(int id) {$/;"	f
+output_run	../../plugins/output_http/output_http.c	/^int output_run(int id) {$/;"	f
+output_stop	../../plugins/output_autofocus/output_autofocus.c	/^int output_stop(int id) {$/;"	f
+output_stop	../../plugins/output_file/output_file.c	/^int output_stop(int id) {$/;"	f
+output_stop	../../plugins/output_http/output_http.c	/^int output_stop(int id) {$/;"	f
+p	../../plugins/input_gspcav1/utils.c	/^	unsigned char *p;$/;"	m	struct:in	file:
+pFramebuffer	../../plugins/input_gspcav1/spcav4l.h	/^	unsigned char *pFramebuffer;$/;"	m	struct:vdIn
+palette	../../plugins/input_gspcav1/spcav4l.h	/^	int palette; \/\/ available palette$/;"	m	struct:vdIn
+palette_list	../../plugins/input_gspcav1/jconfig.h	/^struct palette_list {$/;"	s
+palette_list	../../plugins/input_gspcav1/spcav4l.h	/^struct palette_list {$/;"	s
+paletteconvert	../../plugins/input_gspcav1/spcav4l.c	/^static int paletteconvert( int code)$/;"	f	file:
+param	../../plugins/input.h	/^  input_parameter param;$/;"	m	struct:_input
+param	../../plugins/output.h	/^  output_parameter param;$/;"	m	struct:_output
+parameter	../../plugins/output_http/httpd.h	/^  char *parameter;$/;"	m	struct:__anon10
+parameter_string	../../plugins/input.h	/^  char *parameter_string;$/;"	m	struct:_input_parameter
+parameter_string	../../plugins/output.h	/^  char *parameter_string;$/;"	m	struct:_output_parameter
+pc	../../plugins/output_http/httpd.h	/^  context *pc;$/;"	m	struct:__anon14
+pglobal	../../plugins/input_file/input_file.c	/^static globals     *pglobal;$/;"	v	file:
+pglobal	../../plugins/input_gspcav1/input_gspcav1.c	/^static globals *pglobal;$/;"	v	file:
+pglobal	../../plugins/input_testpicture/input_testpicture.c	/^static globals     *pglobal;$/;"	v	file:
+pglobal	../../plugins/input_uvc/input_uvc.c	/^static globals *pglobal;$/;"	v	file:
+pglobal	../../plugins/output_autofocus/output_autofocus.c	/^static globals *pglobal;$/;"	v	file:
+pglobal	../../plugins/output_file/output_file.c	/^static globals *pglobal;$/;"	v	file:
+pglobal	../../plugins/output_http/httpd.c	/^static globals *pglobal;$/;"	v	file:
+pglobal	../../plugins/output_http/httpd.h	/^  globals *pglobal;$/;"	m	struct:__anon13
+pic	../../plugins/input_testpicture/input_testpicture.c	/^struct pic {$/;"	s	file:
+pics	../../plugins/input_testpicture/input_testpicture.c	/^struct pictures *pics;$/;"	v	typeref:struct:pictures
+pictName	../../plugins/input_uvc/v4l2uvc.h	/^    char *pictName;$/;"	m	struct:vdIn
+picture_lookup	../../plugins/input_testpicture/input_testpicture.c	/^} picture_lookup[] = {$/;"	v	typeref:struct:pictures	file:
+pictures	../../plugins/input_testpicture/input_testpicture.c	/^static struct pictures {$/;"	s	file:
+pixel_format	../../plugins/input_uvc/uvc_compat.h	/^	__u32			pixel_format;	\/* Pixel format *\/$/;"	m	struct:v4l2_frmivalenum
+pixel_format	../../plugins/input_uvc/uvc_compat.h	/^	__u32			pixel_format;	\/* Pixel format *\/$/;"	m	struct:v4l2_frmsizeenum
+plugin	../../plugins/input.h	/^  char *plugin;$/;"	m	struct:_input
+plugin	../../plugins/output.h	/^  char *plugin;$/;"	m	struct:_output
+port	../../plugins/output_http/httpd.h	/^  int port;$/;"	m	struct:__anon12
+probePalette	../../plugins/input_gspcav1/spcav4l.c	/^int probePalette ( struct vdIn *vd )$/;"	f
+probeSize	../../plugins/input_gspcav1/spcav4l.c	/^int probeSize ( struct vdIn *vd )$/;"	f
+ptframe	../../plugins/input_gspcav1/spcav4l.h	/^	unsigned char *ptframe[4];$/;"	m	struct:vdIn
+pub	../../plugins/input_uvc/jpeg_utils.c	/^  struct jpeg_destination_mgr pub; \/* public fields *\/$/;"	m	struct:__anon5	typeref:struct:__anon5::jpeg_destination_mgr	file:
+quality	../../plugins/input_gspcav1/jconfig.h	/^	__u8 quality;$/;"	m	struct:video_param
+quality	../../plugins/input_gspcav1/spcav4l.h	/^	__u8 quality;$/;"	m	struct:video_param
+qualityDown	../../plugins/input_gspcav1/spcav4l.c	/^qualityDown(struct vdIn *vdin)$/;"	f
+qualityUp	../../plugins/input_gspcav1/spcav4l.c	/^qualityUp(struct vdIn *vdin)$/;"	f
+quant	../../plugins/input_gspcav1/utils.c	/^static unsigned char quant[4][64];$/;"	v	file:
+quantization	../../plugins/input_gspcav1/quant.c	/^quantization (INT16 * const data, UINT16 * const quant_table_ptr) $/;"	f
+rawFrameCapture	../../plugins/input_uvc/v4l2uvc.h	/^    int rawFrameCapture;$/;"	m	struct:vdIn
+rb	../../plugins/input_uvc/v4l2uvc.h	/^    struct v4l2_requestbuffers rb;$/;"	m	struct:vdIn	typeref:struct:vdIn::v4l2_requestbuffers
+read_400_format	../../plugins/input_gspcav1/encoder.c	/^read_400_format (JPEG_ENCODER_STRUCTURE * jpeg_encoder_structure,$/;"	f	file:
+read_420_format	../../plugins/input_gspcav1/encoder.c	/^read_420_format (JPEG_ENCODER_STRUCTURE * jpeg_encoder_structure,$/;"	f	file:
+read_422_format	../../plugins/input_gspcav1/encoder.c	/^read_422_format (JPEG_ENCODER_STRUCTURE * jpeg_encoder_structure,$/;"	f	file:
+read_444_format	../../plugins/input_gspcav1/encoder.c	/^read_444_format (JPEG_ENCODER_STRUCTURE * jpeg_encoder_structure,$/;"	f	file:
+read_format	../../plugins/input_gspcav1/encoder.c	/^static void (*read_format) (JPEG_ENCODER_STRUCTURE * jpeg_encoder_structure,$/;"	v	file:
+readtables	../../plugins/input_gspcav1/utils.c	/^static int readtables(int till)$/;"	f	file:
+recordstart	../../plugins/input_uvc/v4l2uvc.h	/^    int recordstart;$/;"	m	struct:vdIn
+recordtime	../../plugins/input_uvc/v4l2uvc.h	/^    int recordtime;$/;"	m	struct:vdIn
+red	../../plugins/input_gspcav1/utils.h	/^	unsigned char red;$/;"	m	struct:Myrgb24
+red	../../plugins/input_gspcav1/utils.h	/^	unsigned char red;$/;"	m	struct:Myrgb32
+red	../../plugins/input_gspcav1/utils.h	/^	unsigned short red:5;$/;"	m	struct:Myrgb16
+request	../../plugins/output_http/httpd.h	/^} request;$/;"	t	typeref:struct:__anon10
+reserved	../../plugins/input_uvc/uvc_compat.h	/^		void *reserved;$/;"	m	union:v4l2_ext_control::__anon1
+reserved	../../plugins/input_uvc/uvc_compat.h	/^	__u32	reserved[2];			\/* Reserved space for future use *\/$/;"	m	struct:v4l2_frmivalenum
+reserved	../../plugins/input_uvc/uvc_compat.h	/^	__u32   reserved[2];			\/* Reserved space for future use *\/$/;"	m	struct:v4l2_frmsizeenum
+reserved	../../plugins/input_uvc/uvc_compat.h	/^	__u32 reserved[2];$/;"	m	struct:v4l2_ext_controls
+reserved2	../../plugins/input_uvc/uvc_compat.h	/^	__u32 reserved2[2];$/;"	m	struct:v4l2_ext_control
+reset_getopt	../../utils.h	/^static inline void reset_getopt(void)$/;"	f
+resolution	../../plugins/input_testpicture/input_testpicture.c	/^  const char *resolution;$/;"	m	struct:pictures	file:
+resolutions	../../plugins/input_gspcav1/input_gspcav1.c	/^} resolutions[] = {$/;"	v	typeref:struct:__anon21	file:
+resolutions	../../plugins/input_uvc/input_uvc.c	/^} resolutions[] = {$/;"	v	typeref:struct:__anon4	file:
+rfsBytesWritten	../../plugins/input_uvc/v4l2uvc.h	/^    unsigned int rfsBytesWritten;$/;"	m	struct:vdIn
+rfsFramesWritten	../../plugins/input_uvc/v4l2uvc.h	/^    unsigned int rfsFramesWritten;$/;"	m	struct:vdIn
+rm	../../plugins/input_gspcav1/utils.c	/^	int rm;			\/* next restart marker *\/$/;"	m	struct:jpginfo	file:
+rows	../../plugins/input_gspcav1/encoder.h	/^  UINT16 rows;$/;"	m	struct:JPEG_ENCODER_STRUCTURE
+rows_in_bottom_mcus	../../plugins/input_gspcav1/encoder.h	/^  UINT16 rows_in_bottom_mcus;$/;"	m	struct:JPEG_ENCODER_STRUCTURE
+run	../../plugins/input.h	/^  int (*run)(void);$/;"	m	struct:_input
+run	../../plugins/output.h	/^  int (*run)(int);$/;"	m	struct:_output
+scaleidctqtab	../../plugins/input_gspcav1/utils.c	/^static void scaleidctqtab(q, sc)$/;"	f	file:
+scan	../../plugins/input_gspcav1/utils.c	/^struct scan {$/;"	s	file:
+sd	../../plugins/output_http/httpd.h	/^  int sd;$/;"	m	struct:__anon13
+selector	../../plugins/input_uvc/uvcvideo.h	/^	__u8 selector;$/;"	m	struct:uvc_xu_control
+selector	../../plugins/input_uvc/uvcvideo.h	/^	__u8 selector;$/;"	m	struct:uvc_xu_control_info
+selector	../../plugins/input_uvc/uvcvideo.h	/^	__u8 selector;$/;"	m	struct:uvc_xu_control_mapping
+send_command	../../www/control.htm	/^      function send_command(cmd) {$/;"	f
+send_command	../../www/java_control.html	/^      function send_command(cmd) {$/;"	f
+send_error	../../plugins/output_http/httpd.c	/^void send_error(int fd, int which, char *message) {$/;"	f
+send_file	../../plugins/output_http/httpd.c	/^void send_file(int id, int fd, char *parameter) {$/;"	f
+send_snapshot	../../plugins/output_http/httpd.c	/^void send_snapshot(int fd) {$/;"	f
+send_stream	../../plugins/output_http/httpd.c	/^void send_stream(int fd) {$/;"	f
+seqtimes	../../plugins/input_gspcav1/spcaframe.h	/^	double seqtimes;$/;"	m	struct:frame_t
+sequence	../../plugins/input_testpicture/input_testpicture.c	/^  struct pic sequence[2];$/;"	m	struct:pictures	typeref:struct:pictures::pic	file:
+server_cleanup	../../plugins/output_http/httpd.c	/^void server_cleanup(void *arg) {$/;"	f
+server_thread	../../plugins/output_http/httpd.c	/^void *server_thread( void *arg ) {$/;"	f
+servers	../../plugins/output_http/output_http.c	/^context servers[MAX_OUTPUT_PLUGINS];$/;"	v
+setinput	../../plugins/input_gspcav1/utils.c	/^static void setinput(in, p)$/;"	f	file:
+signal_handler	../../mjpg_streamer.c	/^void signal_handler(int sig)$/;"	f
+signalquit	../../plugins/input_gspcav1/spcav4l.h	/^	int signalquit;	$/;"	m	struct:vdIn
+signalquit	../../plugins/input_uvc/v4l2uvc.h	/^    int signalquit;$/;"	m	struct:vdIn
+size	../../mjpg_streamer.h	/^  int size;$/;"	m	struct:_globals
+size	../../plugins/input_gspcav1/spcaframe.h	/^	int size;$/;"	m	struct:frame_t
+size	../../plugins/input_testpicture/input_testpicture.c	/^  const int size;$/;"	m	struct:pic	file:
+size	../../plugins/input_uvc/uvcvideo.h	/^	__u16 size;$/;"	m	struct:uvc_xu_control
+size	../../plugins/input_uvc/uvcvideo.h	/^	__u16 size;$/;"	m	struct:uvc_xu_control_info
+size	../../plugins/input_uvc/uvcvideo.h	/^	__u8 size;$/;"	m	struct:uvc_xu_control_mapping
+sizeconvert	../../plugins/input_gspcav1/spcav4l.c	/^static int sizeconvert( int *width, int *height, int size)$/;"	f	file:
+sizenative	../../plugins/input_gspcav1/spcav4l.h	/^	int sizenative; \/\/ available size in jpeg$/;"	m	struct:vdIn
+sizeothers	../../plugins/input_gspcav1/spcav4l.h	/^	int sizeothers;	\/\/ others palette $/;"	m	struct:vdIn
+sleepon	../../plugins/input_gspcav1/spcaframe.h	/^	unsigned char sleepon;$/;"	m	struct:client_t
+spcaPrintParam	../../plugins/input_gspcav1/spcav4l.c	/^static void spcaPrintParam (int fd, struct video_param *videoparam)$/;"	f	file:
+spcaSetAutoExpo	../../plugins/input_gspcav1/spcav4l.c	/^spcaSetAutoExpo(struct vdIn *vdin)$/;"	f
+spcaSetQuality	../../plugins/input_gspcav1/spcav4l.c	/^static void spcaSetQuality(int fd, struct video_param *videoparam, unsigned char index)$/;"	f	file:
+spcaSetTimeInterval	../../plugins/input_gspcav1/spcav4l.c	/^static void spcaSetTimeInterval(int fd, struct video_param *videoparam, unsigned short time)$/;"	f	file:
+stateCallback	../../www/functions.js	/^function stateCallback() {$/;"	f
+status	../../plugins/input_uvc/v4l2uvc.h	/^    char *status;$/;"	m	struct:vdIn
+step	../../plugins/input_uvc/uvc_compat.h	/^	struct v4l2_fract	step;		\/* Frame interval step size [s] *\/$/;"	m	struct:v4l2_frmival_stepwise	typeref:struct:v4l2_frmival_stepwise::v4l2_fract
+step_height	../../plugins/input_uvc/uvc_compat.h	/^	__u32			step_height;	\/* Frame height step size [pixel] *\/$/;"	m	struct:v4l2_frmsize_stepwise
+step_width	../../plugins/input_uvc/uvc_compat.h	/^	__u32			step_width;	\/* Frame width step size [pixel] *\/$/;"	m	struct:v4l2_frmsize_stepwise
+stepwise	../../plugins/input_uvc/uvc_compat.h	/^		struct v4l2_frmival_stepwise	stepwise;$/;"	m	union:v4l2_frmivalenum::__anon3	typeref:struct:v4l2_frmivalenum::__anon3::v4l2_frmival_stepwise
+stepwise	../../plugins/input_uvc/uvc_compat.h	/^		struct v4l2_frmsize_stepwise	stepwise;$/;"	m	union:v4l2_frmsizeenum::__anon2	typeref:struct:v4l2_frmsizeenum::__anon2::v4l2_frmsize_stepwise
+stop	../../mjpg_streamer.h	/^  int stop;$/;"	m	struct:_globals
+stop	../../plugins/input.h	/^  int (*stop)(void);$/;"	m	struct:_input
+stop	../../plugins/output.h	/^  int (*stop)(int);$/;"	m	struct:_output
+string	../../plugins/input_gspcav1/input_gspcav1.c	/^  const char *string;$/;"	m	struct:__anon21	file:
+string	../../plugins/input_gspcav1/input_gspcav1.c	/^  const char *string;$/;"	m	struct:__anon22	file:
+string	../../plugins/input_uvc/input_uvc.c	/^  const char *string;$/;"	m	struct:__anon4	file:
+string	../../plugins/output_http/httpd.h	/^  const char *string;$/;"	m	struct:__anon7
+string	../../plugins/output_http/httpd.h	/^  const char *string;$/;"	m	struct:__anon8
+term_destination	../../plugins/input_uvc/jpeg_utils.c	/^METHODDEF(void) term_destination(j_compress_ptr cinfo) {$/;"	f
+threadID	../../plugins/output_http/httpd.h	/^  pthread_t threadID;$/;"	m	struct:__anon13
+timeDown	../../plugins/input_gspcav1/spcav4l.c	/^timeDown(struct vdIn *vdin)$/;"	f
+timeUp	../../plugins/input_gspcav1/spcav4l.c	/^timeUp(struct vdIn *vdin)$/;"	f
+time_interval	../../plugins/input_gspcav1/jconfig.h	/^	__u16 time_interval;$/;"	m	struct:video_param
+time_interval	../../plugins/input_gspcav1/spcav4l.h	/^	__u16 time_interval;$/;"	m	struct:video_param
+tmpbuffer	../../plugins/input_uvc/v4l2uvc.h	/^    unsigned char *tmpbuffer;$/;"	m	struct:vdIn
+toggleAvi	../../plugins/input_uvc/v4l2uvc.h	/^    int toggleAvi;$/;"	m	struct:vdIn
+tq	../../plugins/input_gspcav1/utils.c	/^	int tq;			\/* quant tbl, copied from comp *\/$/;"	m	struct:scan	file:
+tq	../../plugins/input_gspcav1/utils.c	/^	int tq;$/;"	m	struct:comp	file:
+type	../../plugins/input_uvc/uvc_compat.h	/^	__u32			type;		\/* Frame interval type the device supports. *\/$/;"	m	struct:v4l2_frmivalenum
+type	../../plugins/input_uvc/uvc_compat.h	/^	__u32			type;		\/* Frame size type the device supports. *\/$/;"	m	struct:v4l2_frmsizeenum
+type	../../plugins/output_http/httpd.h	/^  answer_t type;$/;"	m	struct:__anon10
+unit	../../plugins/input_uvc/uvcvideo.h	/^	__u8 unit;$/;"	m	struct:uvc_xu_control
+upbright	../../plugins/input_gspcav1/spcav4l.c	/^unsigned short upbright( struct vdIn *vdin)$/;"	f
+upcontrast	../../plugins/input_gspcav1/spcav4l.c	/^unsigned short upcontrast( struct vdIn *vdin)$/;"	f
+updobright	../../plugins/input_gspcav1/spcaframe.h	/^	unsigned char updobright;$/;"	m	struct:client_t
+updocolors	../../plugins/input_gspcav1/spcaframe.h	/^	unsigned char updocolors;$/;"	m	struct:client_t
+updocontrast	../../plugins/input_gspcav1/spcaframe.h	/^	unsigned char updocontrast;$/;"	m	struct:client_t
+updoexposure	../../plugins/input_gspcav1/spcaframe.h	/^	unsigned char updoexposure;$/;"	m	struct:client_t
+updosize	../../plugins/input_gspcav1/spcaframe.h	/^	unsigned char updosize;$/;"	m	struct:client_t
+uvcGrab	../../plugins/input_uvc/v4l2uvc.c	/^int uvcGrab(struct vdIn *vd)$/;"	f
+uvcPanTilt	../../plugins/input_uvc/dynctrl.c	/^int uvcPanTilt(int dev, int pan, int tilt, int reset) {$/;"	f
+uvc_control_data_type	../../plugins/input_uvc/uvcvideo.h	/^enum uvc_control_data_type {$/;"	g
+uvc_xu_control	../../plugins/input_uvc/uvcvideo.h	/^struct uvc_xu_control {$/;"	s
+uvc_xu_control_info	../../plugins/input_uvc/uvcvideo.h	/^struct uvc_xu_control_info {$/;"	s
+uvc_xu_control_mapping	../../plugins/input_uvc/uvcvideo.h	/^struct uvc_xu_control_mapping {$/;"	s
+v4l2DownControl	../../plugins/input_uvc/v4l2uvc.c	/^int v4l2DownControl(struct vdIn *vd, int control) {$/;"	f
+v4l2GetControl	../../plugins/input_uvc/v4l2uvc.c	/^int v4l2GetControl(struct vdIn *vd, int control) {$/;"	f
+v4l2ResetControl	../../plugins/input_uvc/v4l2uvc.c	/^int v4l2ResetControl(struct vdIn *vd, int control) {$/;"	f
+v4l2SetControl	../../plugins/input_uvc/v4l2uvc.c	/^int v4l2SetControl(struct vdIn *vd, int control, int value) {$/;"	f
+v4l2ToggleControl	../../plugins/input_uvc/v4l2uvc.c	/^int v4l2ToggleControl(struct vdIn *vd, int control) {$/;"	f
+v4l2UpControl	../../plugins/input_uvc/v4l2uvc.c	/^int v4l2UpControl(struct vdIn *vd, int control) {$/;"	f
+v4l2_ext_control	../../plugins/input_uvc/uvc_compat.h	/^struct v4l2_ext_control$/;"	s
+v4l2_ext_controls	../../plugins/input_uvc/uvc_compat.h	/^struct v4l2_ext_controls$/;"	s
+v4l2_frmival_stepwise	../../plugins/input_uvc/uvc_compat.h	/^struct v4l2_frmival_stepwise$/;"	s
+v4l2_frmivalenum	../../plugins/input_uvc/uvc_compat.h	/^struct v4l2_frmivalenum$/;"	s
+v4l2_frmivaltypes	../../plugins/input_uvc/uvc_compat.h	/^enum v4l2_frmivaltypes$/;"	g
+v4l2_frmsize_discrete	../../plugins/input_uvc/uvc_compat.h	/^struct v4l2_frmsize_discrete$/;"	s
+v4l2_frmsize_stepwise	../../plugins/input_uvc/uvc_compat.h	/^struct v4l2_frmsize_stepwise$/;"	s
+v4l2_frmsizeenum	../../plugins/input_uvc/uvc_compat.h	/^struct v4l2_frmsizeenum$/;"	s
+v4l2_frmsizetypes	../../plugins/input_uvc/uvc_compat.h	/^enum v4l2_frmsizetypes$/;"	g
+v4l2_type	../../plugins/input_uvc/uvcvideo.h	/^	enum v4l2_ctrl_type v4l2_type;$/;"	m	struct:uvc_xu_control_mapping	typeref:enum:uvc_xu_control_mapping::v4l2_ctrl_type
+v4lGrab	../../plugins/input_gspcav1/spcav4l.c	/^v4lGrab (struct vdIn *vd )$/;"	f
+valptr	../../plugins/input_gspcav1/utils.c	/^	int valptr[16];$/;"	m	struct:dec_hufftbl	file:
+vals	../../plugins/input_gspcav1/utils.c	/^	unsigned char vals[256];$/;"	m	struct:dec_hufftbl	file:
+value	../../plugins/input_uvc/uvc_compat.h	/^		__s32 value;$/;"	m	union:v4l2_ext_control::__anon1
+value64	../../plugins/input_uvc/uvc_compat.h	/^		__s64 value64;$/;"	m	union:v4l2_ext_control::__anon1
+vdIn	../../plugins/input_gspcav1/spcav4l.h	/^struct vdIn {$/;"	s
+vdIn	../../plugins/input_uvc/v4l2uvc.h	/^struct vdIn {$/;"	s
+vertical_mcus	../../plugins/input_gspcav1/encoder.h	/^  UINT16 vertical_mcus;$/;"	m	struct:JPEG_ENCODER_STRUCTURE
+videoIn	../../plugins/input_gspcav1/input_gspcav1.c	/^struct vdIn *videoIn;$/;"	v	typeref:struct:vdIn
+videoIn	../../plugins/input_uvc/input_uvc.c	/^struct vdIn *videoIn;$/;"	v	typeref:struct:vdIn
+video_disable	../../plugins/input_uvc/v4l2uvc.c	/^static int video_disable(struct vdIn *vd)$/;"	f	file:
+video_enable	../../plugins/input_uvc/v4l2uvc.c	/^static int video_enable(struct vdIn *vd)$/;"	f	file:
+video_param	../../plugins/input_gspcav1/jconfig.h	/^struct video_param {$/;"	s
+video_param	../../plugins/input_gspcav1/spcav4l.h	/^struct video_param {$/;"	s
+videocap	../../plugins/input_gspcav1/spcav4l.h	/^	struct video_capability videocap;$/;"	m	struct:vdIn	typeref:struct:vdIn::video_capability
+videochan	../../plugins/input_gspcav1/spcav4l.h	/^	struct video_channel videochan;$/;"	m	struct:vdIn	typeref:struct:vdIn::video_channel
+videodevice	../../plugins/input_gspcav1/spcav4l.h	/^	char *videodevice ;$/;"	m	struct:vdIn
+videodevice	../../plugins/input_uvc/v4l2uvc.h	/^    char *videodevice;$/;"	m	struct:vdIn
+videombuf	../../plugins/input_gspcav1/spcav4l.h	/^	struct video_mbuf videombuf;$/;"	m	struct:vdIn	typeref:struct:vdIn::video_mbuf
+videoparam	../../plugins/input_gspcav1/spcav4l.h	/^	struct video_param videoparam;	$/;"	m	struct:vdIn	typeref:struct:vdIn::video_param
+videopict	../../plugins/input_gspcav1/spcav4l.h	/^	struct video_picture videopict;$/;"	m	struct:vdIn	typeref:struct:vdIn::video_picture
+videowin	../../plugins/input_gspcav1/spcav4l.h	/^	struct video_window videowin;$/;"	m	struct:vdIn	typeref:struct:vdIn::video_window
+vmmap	../../plugins/input_gspcav1/spcav4l.h	/^	struct video_mmap vmmap;$/;"	m	struct:vdIn	typeref:struct:vdIn::video_mmap
+w	../../plugins/input_gspcav1/spcaframe.h	/^	int w;$/;"	m	struct:frame_t
+wakeup	../../plugins/input_gspcav1/spcaframe.h	/^	unsigned char wakeup;$/;"	m	struct:frame_t
+width	../../plugins/input_gspcav1/input_gspcav1.c	/^  const int width, height;$/;"	m	struct:__anon21	file:
+width	../../plugins/input_uvc/input_uvc.c	/^  const int width, height;$/;"	m	struct:__anon4	file:
+width	../../plugins/input_uvc/uvc_compat.h	/^	__u32			width;		\/* Frame width *\/$/;"	m	struct:v4l2_frmivalenum
+width	../../plugins/input_uvc/uvc_compat.h	/^	__u32			width;		\/* Frame width [pixel] *\/$/;"	m	struct:v4l2_frmsize_discrete
+width	../../plugins/input_uvc/v4l2uvc.h	/^    int width;$/;"	m	struct:vdIn
+worker	../../plugins/input_file/input_file.c	/^static pthread_t   worker;$/;"	v	file:
+worker	../../plugins/input_testpicture/input_testpicture.c	/^static pthread_t   worker;$/;"	v	file:
+worker	../../plugins/output_autofocus/output_autofocus.c	/^static pthread_t worker;$/;"	v	file:
+worker	../../plugins/output_file/output_file.c	/^static pthread_t worker;$/;"	v	file:
+worker_cleanup	../../plugins/input_file/input_file.c	/^void worker_cleanup(void *arg) {$/;"	f
+worker_cleanup	../../plugins/input_testpicture/input_testpicture.c	/^void worker_cleanup(void *arg) {$/;"	f
+worker_cleanup	../../plugins/output_autofocus/output_autofocus.c	/^void worker_cleanup(void *arg) {$/;"	f
+worker_cleanup	../../plugins/output_file/output_file.c	/^void worker_cleanup(void *arg) {$/;"	f
+worker_thread	../../plugins/input_file/input_file.c	/^void *worker_thread( void *arg ) {$/;"	f
+worker_thread	../../plugins/input_testpicture/input_testpicture.c	/^void *worker_thread( void *arg ) {$/;"	f
+worker_thread	../../plugins/output_autofocus/output_autofocus.c	/^void *worker_thread( void *arg ) {$/;"	f
+worker_thread	../../plugins/output_file/output_file.c	/^void *worker_thread( void *arg ) {$/;"	f
+write_markers	../../plugins/input_gspcav1/marker.c	/^UINT8 * write_markers (UINT8 * output_ptr, UINT32 image_format,$/;"	f
+written	../../plugins/input_uvc/jpeg_utils.c	/^  int *written;$/;"	m	struct:__anon5	file:
+www_folder	../../plugins/output_http/httpd.h	/^  char *www_folder;$/;"	m	struct:__anon12
+x	../../plugins/input_gspcav1/spcaframe.h	/^	unsigned char x;$/;"	m	struct:client_t
+xmlHttp	../../www/functions.js	/^var xmlHttp;$/;"	v
+xu_ctrls	../../plugins/input_uvc/dynctrl.c	/^static struct uvc_xu_control_info xu_ctrls[] = {$/;"	v	typeref:struct:uvc_xu_control_info	file:
+xu_mappings	../../plugins/input_uvc/dynctrl.c	/^static struct uvc_xu_control_mapping xu_mappings[] = {$/;"	v	typeref:struct:uvc_xu_control_mapping	file:
+y	../../plugins/input_gspcav1/spcaframe.h	/^	unsigned char y;$/;"	m	struct:client_t
+zig	../../plugins/input_gspcav1/utils.c	/^static unsigned char zig[64] = {$/;"	v	file:
+zig2	../../plugins/input_gspcav1/utils.c	/^static unsigned char zig2[64] = {$/;"	v	file:
+zigzag_table	../../plugins/input_gspcav1/quant.c	/^static UINT8 zigzag_table[] = {$/;"	v	file:

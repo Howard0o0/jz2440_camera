@@ -1,0 +1,11 @@
+#!/bin/sh
+#ifconfig eth0 192.168.1.17
+
+mount -a
+mkdir /dev/pts
+mount -t devpts devpts /dev/pts
+echo /sbin/mdev > /proc/sys/kernel/hotplug
+mdev -s
+insmod /ath9k_hw.ko
+insmod /ath9k_common.ko
+insmod /ath9k_htc.ko
